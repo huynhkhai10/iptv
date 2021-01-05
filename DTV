@@ -136,7 +136,7 @@ https://vtsstr3.tv24.vn/elive1/_definst_/smil:btv5_HD.smil/chunklist_b2692000.m3
 #EXTINF:0 tvg-id="redbyhbohd" group-title="QUỐC TẾ - QNET" tvg-name="Red By HBO HD" tvg-logo="https://imgur.com/tLRt17t.png" ,Red By HBO HD
 http://116.108.15.118:8080/m3u8/tvmienphi.m3u8
 #EXTINF:0 tvg-id="Cinemax" group-title="QUỐC TẾ - QNET" tvg-name="Max by HBO HD" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/f/f0/611-cinemax.png/250px-611-cinemax.png" ,CINEMAX
-http://116.108.15.118:8080/m3u8/tvmienphi.m3u8
+http://36.37.252.114:888/Apple/OneTV-029/playlist.m3u8
 #EXTINF:0 tvg-id="fox_hd"group-title="QUỐC TẾ - QNET" tvg-logo="https://htvc.vn/uploads/editor/images/724_300.png",FOX HD
 http://htv-drm-live-cdn.fptplay.net/CDN-FPT02/FOX-HD-1080p/playlist.m3u8?
 #EXTINF:0 tvg-id="Fox Family Movies HD-ClipTV"group-title="QUỐC TẾ - QNET" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/5/57/Fox_Family_Movies_logo.png",FOX FAMILY HD
@@ -156,7 +156,7 @@ https://livecdn.fptplay.net/qnetlive/foxsports3_2000.stream/chunklist.m3u8
 #EXTINF:0 tvg-id="AXN-ClipTV" group-title="QUỐC TẾ - QNET" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/d/d0/AXN_Logo_2015.png" ,AXN HD
 https://livecdn.fptplay.net/qnetlive/axnhd_hls.smil/chunklist_b2500000.m3u8
 #EXTINF:0 tvg-id="hbohd" group-title="QUỐC TẾ - QNET" tvg-name="HBO HD" tvg-logo="https://logos-download.com/wp-content/uploads/2016/10/HBO_logo_blue.png" ,HBO HD
-http://42.113.105.144:4022/udp/225.1.4.90:30120
+http://36.37.252.114:888/Apple/OneTV-030/playlist.m3u8
 #EXTINF:0 tvg-id="warner_tv_hd" group-title="QUỐC TẾ - QNET" tvg-logo="https://imgur.com/9qJI1Mg.png",Warner TV
 https://livecdn.fptplay.net/qnetlive/warnertv_2000.stream/chunklist.m3u8
 http://iptvfree.gq/live/cartoon.m3u8
