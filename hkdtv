@@ -139,7 +139,6 @@ https://livecdn.fptplay.net/qnetlive/axnhd_hls.smil/chunklist_b2500000.m3u8
 http://36.37.252.114:888/Apple/OneTV-030/playlist.m3u8 
 #EXTINF:0 tvg-id="warner_tv_hd" group-title="QUỐC TẾ - QNET" tvg-logo="https://imgur.com/9qJI1Mg.png",Warner TV
 https://livecdn.fptplay.net/qnetlive/warnertv_2000.stream/chunklist.m3u8
-http://iptvfree.gq/live/cartoon.m3u8
 #EXTINF:0 group-title="QUỐC TẾ - QNET" tvg-logo="https://sites.google.com/site/vtvcaber/kix-hd-vtvcab-logo.png", KIX HD
 https://livecdn.fptplay.net/hda/kixhd_hls.smil/chunklist_b2500000.m3u8
 #EXTINF:-1 tvg-id="Channel V HD-ClipTV" group-title="QUỐC TẾ - QNET" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/4/4b/Channel_V_Logo.svg/200px-Channel_V_Logo.svg.png", Channel V HD
@@ -290,7 +289,7 @@ https://live.baobinhphuoc.com.vn/bptvlive/tv1live.m3u8
 #EXTINF:0 group-title="KÊNH ĐỊA PHƯƠNG" tvg-logo="https://i.ibb.co/whZsp2n/BPTV2-Home-TV-BEARTV.png", Bình Phước 2 - HOME TV
 https://live.baobinhphuoc.com.vn/bptvlive/tv2live.m3u8
 #EXTINF:-1  group-title="KÊNH ĐỊA PHƯƠNG" tvg-logo="https://static.wikia.nocookie.net/logopedia/images/0/07/ANT_BPTV3.png/revision/latest?cb=20200117064304", Bình Phước 3 - ANT
-https://ott.avg.vn/live/ant-tv/chunklist_1.m3u8
+http://116.108.15.118:8080/m3u8/tvmienphi.m3u8
 #EXTINF:-1  group-title="KÊNH ĐỊA PHƯƠNG" tvg-logo="https://i.ibb.co/j8y7WG3/PHIMHAY.png", PHIM HAY
 https://livecdn.fptplay.net/sda/phimhay_hls.smil/chunklist_b2500000.m3u8
 #EXTINF:-1 tvg-id="TH DA NANG "group-title="KÊNH ĐỊA PHƯƠNG" tvg-logo="http://www.drt.danang.vn/images/drt1.png",Đà Nẵng 1
