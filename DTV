@@ -453,35 +453,35 @@ https://live.kplus.vn/tv/knshd_hls.smil/hd/1080p/chunklist_b2692000.m3u8
 https://live.kplus.vn/tv/kpchd_hls.smil/hd/1080p/chunklist_b2692000.m3u8?token=eyJzZXJ2ZXJfdGltZSI6IDE1ODIzNDc5NjAsICJyZXNvdXJjZV9pZCI6ICJ2dHYxaGRfaGxzIiwgInBhcnRuZXJfaWQiOiAiNTcxM2JlOGMwN2U0MmVkNGI5MTYzODhlIiwgInRva2VuIjogImQxZjUwMGFhNTdjZTg5MDQ3MDExNjA3OWNkYWExNjhkIiwgInZhbGlkX21pbnV0ZXMiOiAxNTgyNDM0MzYwLCAicm1pcCI6ICIyNy43OS4yNTUuMTUzIn0=&user_id=96301827
 
 #EXTINF:-1 group-title="MobiTV" tvg-logo="http://imageidc1.tv360.vn/image1/2020_10_30/1604029207543/aa260e17c4da.jpg", An Ninh Thế Giới
-http://live.cdn.mobifonetv.vn/motv/antg_hls.smil/chunklist_b1200000.m3u8
+http://116.108.15.118:8080/m3u8/tvmienphi.m3u8mytokenendtime=1554746227&mytokenhash=YGor67EtJK8fo7zYNaAultRmnfqLbaNHwBGTB9ty-50=
 #EXTINF:-1 group-title="MobiTV" tvg-logo="http://static.fptplay.net.vn/static/img/share/channels/icon_channel_ncm_141217724217.png", NCM  - BTV10
-http://live.cdn.mobifonetv.vn/motv/ncm_hls.smil/chunklist_b1200000.m3u8
+http://116.108.15.118:8080/m3u8/tvmienphi.m3u8mytokenendtime=1554746227&mytokenhash=YGor67EtJK8fo7zYNaAultRmnfqLbaNHwBGTB9ty-50=
 #EXTINF:-1 group-title="MobiTV" tvg-logo="http://static.fptplay.net.vn/static/img/share/channels/icon_channel_phim-hay_141217631093.png",Phim hay
-http://210.245.18.144:8081/spsklfl/_definst_/phimhay.480p.stream/chunklist.m3u8
+http://116.108.15.118:8080/m3u8/tvmienphi.m3u8mytokenendtime=1554746227&mytokenhash=YGor67EtJK8fo7zYNaAultRmnfqLbaNHwBGTB9ty-50=
 #EXTINF:-1 group-title="MobiTV" tvg-logo="http://static1.fptplay.net.vn/static/img/share/channels/icon_channel_mien-tay_141217633202.png",Miền Tây - THĐT2
-http://210.245.18.144:8081/spsklfl/_definst_/mientay.480p.stream/chunklist.m3u8
+http://116.108.15.118:8080/m3u8/tvmienphi.m3u8mytokenendtime=1554746227&mytokenhash=YGor67EtJK8fo7zYNaAultRmnfqLbaNHwBGTB9ty-50=
 #EXTINF:-1 group-title="MobiTV" tvg-logo="http://static1.fptplay.net.vn/static/img/share/channels/icon_channel_vietteen_141217629418.png", VIETTEEN 
-http://live.cdn.mobifonetv.vn/motv/vietten_hls.smil/chunklist_b1200000.m3u8
+http://116.108.15.118:8080/m3u8/tvmienphi.m3u8mytokenendtime=1554746227&mytokenhash=YGor67EtJK8fo7zYNaAultRmnfqLbaNHwBGTB9ty-50=
 #EXTINF:-1 group-title="MobiTV" tvg-logo="http://static1.fptplay.net.vn/static/img/share/channels/icon_channel_sam_141217634547.png", SAM - BTV11
-http://live.cdn.mobifonetv.vn/motv/sam_hls.smil/chunklist_b1200000.m3u8
+http://116.108.15.118:8080/m3u8/tvmienphi.m3u8mytokenendtime=1554746227&mytokenhash=YGor67EtJK8fo7zYNaAultRmnfqLbaNHwBGTB9ty-50=
 #EXTINF:-1 group-title="MobiTV" tvg-logo="https://cliptv.vn/themes/cliptv/img/list_channel/Chuyen_kenh/An-Vi%C3%AAn.png", An Viên HD
-http://live.cdn.mobifonetv.vn/motv/anvienhd_hls.smil/chunklist_b1200000.m3u8
+http://116.108.15.118:8080/m3u8/tvmienphi.m3u8mytokenendtime=1554746227&mytokenhash=YGor67EtJK8fo7zYNaAultRmnfqLbaNHwBGTB9ty-50=
 #EXTINF:-1 group-title="MobiTV" tvg-logo="http://vuapp.tranvu.info/upload//avg_codien.png", Nhạc Cổ Điển
-http://live.cdn.mobifonetv.vn/motv3/nhaccodien_hls.smil/chunklist_b1200000.m3u8
+http://116.108.15.118:8080/m3u8/tvmienphi.m3u8mytokenendtime=1554746227&mytokenhash=YGor67EtJK8fo7zYNaAultRmnfqLbaNHwBGTB9ty-50=
 #EXTINF:-1 group-title="MobiTV"tvg-logo="http://vuapp.tranvu.info/upload//avg_trutinh.png", Nhạc Trữ Tình
-http://live.cdn.mobifonetv.vn/motv3/nhactrutinh_hls.smil/chunklist_b1200000.m3u8
+http://116.108.15.118:8080/m3u8/tvmienphi.m3u8mytokenendtime=1554746227&mytokenhash=YGor67EtJK8fo7zYNaAultRmnfqLbaNHwBGTB9ty-50=
 #EXTINF:-1 group-title="MobiTV"tvg-logo="http://vuapp.tranvu.info/upload//avg_dantoc.png", Nhạc Dân Tộc
-http://live.cdn.mobifonetv.vn/motv3/nhacdantoc_hls.smil/chunklist_b1200000.m3u8
+http://116.108.15.118:8080/m3u8/tvmienphi.m3u8mytokenendtime=1554746227&mytokenhash=YGor67EtJK8fo7zYNaAultRmnfqLbaNHwBGTB9ty-50=
 #EXTINF:-1 group-title="MobiTV"tvg-logo="http://vuapp.tranvu.info/upload//avg_nambo.png", Nhạc Nam Bộ
-http://live.cdn.mobifonetv.vn/motv3/nhacnambo_hls.smil/chunklist_b1200000.m3u8
+http://116.108.15.118:8080/m3u8/tvmienphi.m3u8mytokenendtime=1554746227&mytokenhash=YGor67EtJK8fo7zYNaAultRmnfqLbaNHwBGTB9ty-50=
 #EXTINF:-1 group-title="MobiTV"tvg-logo="http://vuapp.tranvu.info/upload//avg_nhactre.png", Nhạc Trẻ
-http://live.cdn.mobifonetv.vn/motv3/nhactre_hls.smil/chunklist_b1200000.m3u8
+http://116.108.15.118:8080/m3u8/tvmienphi.m3u8mytokenendtime=1554746227&mytokenhash=YGor67EtJK8fo7zYNaAultRmnfqLbaNHwBGTB9ty-50=
 #EXTINF:-1 group-title="MobiTV"tvg-logo="http://vuapp.tranvu.info/upload//avg_nhacnhe.png", Nhạc Nhẹ
-http://live.cdn.mobifonetv.vn/motv3/nhacnhe_hls.smil/chunklist_b1200000.m3u8
+http://116.108.15.118:8080/m3u8/tvmienphi.m3u8mytokenendtime=1554746227&mytokenhash=YGor67EtJK8fo7zYNaAultRmnfqLbaNHwBGTB9ty-50=
 #EXTINF:-1 group-title="MobiTV"tvg-logo="http://vuapp.tranvu.info/upload//avg_cachmang.png", Nhạc Cách Mạng
-http://live.cdn.mobifonetv.vn/motv3/nhaccachmang_hls.smil/chunklist_b1200000.m3u8
+http://116.108.15.118:8080/m3u8/tvmienphi.m3u8mytokenendtime=1554746227&mytokenhash=YGor67EtJK8fo7zYNaAultRmnfqLbaNHwBGTB9ty-50=
 #EXTINF:-1 group-title="MobiTV"tvg-logo="http://vuapp.tranvu.info/upload//avg_docsach.png", Đọc Sách
-http://live.cdn.mobifonetv.vn/motv3/docsach_hls.smil/chunklist_b1200000.m3u8
+http://116.108.15.118:8080/m3u8/tvmienphi.m3u8mytokenendtime=1554746227&mytokenhash=YGor67EtJK8fo7zYNaAultRmnfqLbaNHwBGTB9ty-50=
 
 #EXTINF:0 tvg-id="sbs" group-title="HÀN QUỐC" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/c/c0/Seoul_Broadcasting_System_logo.svg/1280px-Seoul_Broadcasting_System_logo.svg.png",SBS
 https://streaming-a-802.cdn.nextologies.com/SBS_Live_HD/live/SBS_Live_HD_1500k/chunks.m3u8
