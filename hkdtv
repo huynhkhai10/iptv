@@ -489,7 +489,7 @@ http://41.190.24.170:8081/PP01_NBCSN/index.m3u8
 #EXTINF:0 tvg-logo="https://photo.sofun.tw/2013/11/STAR-SPORTS-LOGO.jpg" group-title="KÊNH THỂ THAO",Star Sports
 rtmp://ivi.bupt.edu.cn:1935/livetv/starsports?checkedby
 
-#EXTINF:-1 tvg-ID="kpluspmhd" group-title="KÊNH THỂ THAO" tvg-logo="https://i.ibb.co/SwckCJV/BEARLIVETV.png", BEAR Live 1
+#EXTINF:-1 tvg-ID="kpluspm" group-title="KÊNH THỂ THAO" tvg-logo="https://i.ibb.co/SwckCJV/BEARLIVETV.png", BEAR Live 1
 https://w88abc.top/hls/stream_server_1.m3u8
 #EXTINF:-1 tvg-logo="https://i.ibb.co/SwckCJV/BEARLIVETV.png" group-title="KÊNH THỂ THAO", BEAR Live 2
 https://livecdn.fptplay.net/tvc/seriea01_2000.stream/chunklist.m3u8
