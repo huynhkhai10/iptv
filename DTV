@@ -63,7 +63,7 @@ https://vtsstr1.tv24.vn/live/_definst_/smil:VTVcab12_SD.smil/chunklist_w17042229
 #EXTINF:0 tvg-id="VTVcab 13 - VTV Hyundai Home Shopping"group-title="VTVCab" tvg-logo="http://m.vtvhyundai.vn/images/logo.png",VTVcab13 - VTV Hyundai Home Shopping
 https://livecdn.fptplay.net/sda/vtvhomeshopping_1000.stream/playlist.m3u8?token=eyJzZXJ2ZXJfdGltZSI6IDE2MDk3NzYyMDMsICJyZXNvdXJjZV9pZCI6ICJ2dHZob21lc2hvcHBpbmdfMTAwMCIsICJwYXJ0bmVyX2lkIjogIjU3MTNiZThjMDdlNDJlZDRiOTE2Mzg4ZSIsICJ0b2tlbiI6ICIyMzExYjUwZjEwZDk1MjE5MzQzMWRlNmYwMDM2NDU0MSIsICJ2YWxpZF9taW51dGVzIjogMTYwOTg2MjYwMywgInJtaXAiOiAiMTI1LjIzNS4yMzcuMTQwIn0=&user_id=4748331
 #EXTINF:0 tvg-id="VTVcab 14 - LotteDatViet "group-title="VTVCab" tvg-logo="https://static.wikia.nocookie.net/logos/images/d/de/Large_lottedatviet.png/revision/latest?cb=20201012095219&path-prefix=vi",VTVcab14 - LotteDatViet 
-http://220.158.149.14:9999/live/TV00000000000000000106@HHZT
+http://116.108.15.118:8080/m3u8/tvmienphi.m3u8
 #EXTINF:0 tvg-id="vtvcab15hd"group-title="VTVCab" tvg-logo="https://i.ibb.co/LnN87hc/VTVCAB15-BEARTV.png",VTVCab15
 https://vtsstr1.tv24.vn/live/_definst_/smil:VTVcab15_SD.smil/chunklist_w1045987880_b2692000.m3u8?uid=s2c526m574z5s4l5h4&mytokenstarttime=1554702727&mytokenendtime=1554746227&mytokenhash=YGor67EtJK8fo7zYNaAultRmnfqLbaNHwBGTB9ty-50=
 #EXTINF:-1 tvg-id="vtvcab16_bong_da_tv_hd" group-title="VTVCab" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/c/c8/Bong-da-tv-logo.png", VTVCab 16 - Bóng Đá TV
@@ -77,11 +77,11 @@ https://vtsstr1.tv24.vn/live/_definst_/smil:VTVcab19_SD.smil/chunklist_w20206569
 #EXTINF:0 tvg-id="VTVcab 20 - V Family"group-title="VTVCab" tvg-logo="https://i.ibb.co/8jjVmFf/VTVCAB20-BEARTV.png",VTVCab20 - V Family
 https://vtsstr1.tv24.vn/live/_definst_/smil:VTVcab20_SD.smil/chunklist_w1750066304_b2692000.m3u8?uid=s2c526m574z5s4l5h4&mytokenstarttime=1554702727&mytokenendtime=1554746227&mytokenhash=YGor67EtJK8fo7zYNaAultRmnfqLbaNHwBGTB9ty-50=
 #EXTINF:0 tvg-id="VTVcab 21 - Cartoon Kids"group-title="VTVCab" tvg-logo="https://static.wikia.nocookie.net/logos/images/0/0c/Cartoon_Kids_%28VTVCab_21%29.png/revision/latest/scale-to-width-down/340?cb=20201011133203&path-prefix=vi",VTVCab21 - Cartoon Kids
-https://vtsstr1.tv24.vn/live/_definst_/smil:VTVcab21_SD.smil/chunklist_w1750066304_b2692000.m3u8?uid=s2c526m574z5s4l5h4&mytokenstarttime=1554702727&mytokenendtime=1554746227&mytokenhash=YGor67EtJK8fo7zYNaAultRmnfqLbaNHwBGTB9ty-50=
+http://116.108.15.118:8080/m3u8/tvmienphi.m3u8mytokenendtime=1554746227&mytokenhash=YGor67EtJK8fo7zYNaAultRmnfqLbaNHwBGTB9ty-50=
 #EXTINF:0 tvg-id="VTVcab 22 - LifeTV "group-title="VTVCab" tvg-logo="http://imageidc1.tv360.vn/image1/2020_09_22/1600760901929/7aee1354c51a.jpg",VTVCab22:
-https://vtsstr1.tv24.vn/live/_definst_/smil:VTVcab22_SD.smil/chunklist_w1750066304_b2692000.m3u8?uid=s2c526m574z5s4l5h4&mytokenstarttime=1554702727&mytokenendtime=1554746227&mytokenhash=YGor67EtJK8fo7zYNaAultRmnfqLbaNHwBGTB9ty-50=
+http://116.108.15.118:8080/m3u8/tvmienphi.m3u8mytokenendtime=1554746227&mytokenhash=YGor67EtJK8fo7zYNaAultRmnfqLbaNHwBGTB9ty-50=
 #EXTINF:0 tvg-id="VTVcab 23_Golf_TV"group-title="VTVCab" tvg-logo="https://rsstv.gviet.vn/sctv/157/999/1569981249737.png",VTVCab23 - Golf TV
-http://14.231.82.226:8889/udp/232.84.2.246:10876
+http://116.108.15.118:8080/m3u8/tvmienphi.m3u8
 
 
 #EXTINF:0 tvg-id="SCTV1" group-title="SCTV" tvg-logo="https://lh3.googleusercontent.com/-N7N00xEzwdk/WseTQ4JIZAI/AAAAAAAAD54/3CBRPE78BnARomYiVfxbMN2cMgR8G4o5gCLcBGAs/h1200/s1.png", SCTV1 HD - Hài
@@ -134,9 +134,9 @@ https://vtsstr3.tv24.vn/elive1/_definst_/smil:btv5_HD.smil/chunklist_b2692000.m3
 #EXTINF:-1 tvg-id="MOV" group-title="HanoiCab" tvg-logo="https://i.imgur.com/FD1sjQe.png", MOV - HanoiCab 4
 
 #EXTINF:0 tvg-id="redbyhbohd" group-title="QUỐC TẾ - QNET" tvg-name="Red By HBO HD" tvg-logo="https://imgur.com/tLRt17t.png" ,Red By HBO HD
-http://42.113.105.144:4022/udp/225.1.1.93:30120
+http://116.108.15.118:8080/m3u8/tvmienphi.m3u8
 #EXTINF:0 tvg-id="Cinemax" group-title="QUỐC TẾ - QNET" tvg-name="Max by HBO HD" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/f/f0/611-cinemax.png/250px-611-cinemax.png" ,CINEMAX
-http://42.113.105.144:4022/udp/225.1.2.86:30120
+http://116.108.15.118:8080/m3u8/tvmienphi.m3u8
 #EXTINF:0 tvg-id="fox_hd"group-title="QUỐC TẾ - QNET" tvg-logo="https://htvc.vn/uploads/editor/images/724_300.png",FOX HD
 http://htv-drm-live-cdn.fptplay.net/CDN-FPT02/FOX-HD-1080p/playlist.m3u8?
 #EXTINF:0 tvg-id="Fox Family Movies HD-ClipTV"group-title="QUỐC TẾ - QNET" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/5/57/Fox_Family_Movies_logo.png",FOX FAMILY HD
@@ -144,7 +144,7 @@ http://htv-drm-live-cdn.fptplay.net/CDN-FPT02/FOXFAMILY-HD-1080p/playlist.m3u8?
 #EXTINF:0 tvg-id="fox_movies" group-title="QUỐC TẾ - QNET" tvg-logo="https://www.digitalsimon.com/uploads/5/9/5/7/59574985/foxmovies-white-rgb_orig.png",FOX Movies HD
 http://htv-drm-live-cdn.fptplay.net/CDN-FPT02/FOXMOVIES-HD-1080p/playlist.m3u8
 #EXTINF:0 tvg-id="fox_action_movies" group-title="QUỐC TẾ - QNET" tvg-logo="https://iconape.com/wp-content/files/ea/122167/png/Fox_Action_Movies_logo.png",FOX Action Movies
-http://tvku.live:8888/provision/pp/99
+http://116.108.15.118:8080/m3u8/tvmienphi.m3u8
 #EXTINF: tvg-id="" tvg-name="FOXlife HD" group-title="QUỐC TẾ - QNET" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/4/44/Fox-Life.png" ,FOX LIFE HD
 https://livecdn.fptplay.net/foxlive/foxlifehd_hls.smil/chunklist_b2500000.m3u8
 #EXTINF:0 tvg-id="FOX SPORTS-ClipTV" group-title="QUỐC TẾ - QNET" tvg-logo="https://upload.wikimedia.org/wikipedia/en/thumb/3/3a/Fox_Sports_Logo.svg/1024px-Fox_Sports_Logo.svg.png", FOX SPORT HD
@@ -197,9 +197,9 @@ http://livecdn.fptplay.net/qnetlive/travelliving_hls.smil/chunklist_b2500000.m3u
 #EXTINF:0 group-title="QUỐC TẾ - QNET" tvg-logo="https://106b9c59d.vws.vegacdn.vn/rBN9EfEEFSyoELIQDjEu/408x230x1583125555/cmc_new/img.live_channel/0/0/0/0/252.jpg" ,KIDS TV
 https://10615fed5.vws.vegacdn.vn/cliptv_liverecord/happykidhd_abr/playlist.m3u8
 #EXTINF:0 group-title="QUỐC TẾ - QNET" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/6/6c/2014_Disney_Channel_logo.svg/1024px-2014_Disney_Channel_logo.svg.png" , Disney Channel
-http://42.113.105.144:4022/udp/225.1.2.158:30120
+http://116.108.15.118:8080/m3u8/tvmienphi.m3u8
 #EXTINF:0 group-title="QUỐC TẾ - QNET" tvg-logo="https://static.wikia.nocookie.net/disney/images/8/83/Disney_Junior_Logo.png/revision/latest?cb=20180904084738" , Disney Junior
-http://42.113.105.144:4022/udp/225.1.1.233:30120
+http://116.108.15.118:8080/m3u8/tvmienphi.m3u8
 #EXTINF:0 group-title="QUỐC TẾ - QNET" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/2/2b/Animax_logo.svg/1200px-Animax_logo.svg.png" , Animax
 https://livecdn.fptplay.net/hda3/animaxport_2000.stream/chunklist_b250000.m3u8
 #EXTINF:0 group-title="QUỐC TẾ - QNET" tvg-logo="https://i.pinimg.com/originals/ad/2e/57/ad2e57aa2d71eee1f79fb1b8fcb932da.png" , BBC Earth
