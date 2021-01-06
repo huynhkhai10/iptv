@@ -116,7 +116,7 @@ https://vtsstr3.tv24.vn/elive1/_definst_/smil:btv5_HD.smil/chunklist_b2692000.m3
 
 
 #EXTINF:0 tvg-id="redbyhbohd" group-title="QUỐC TẾ - QNET" tvg-name="Red By HBO HD" tvg-logo="https://imgur.com/tLRt17t.png" ,Red By HBO HD
-http://116.108.15.118:8080/m3u8/tvmienphi.m3u8
+http://iptvh.it/Redhbo.qnet
 #EXTINF:0 tvg-id="Cinemax" group-title="QUỐC TẾ - QNET" tvg-name="Max by HBO HD" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/f/f0/611-cinemax.png/250px-611-cinemax.png" ,CINEMAX
 http://36.37.252.114:888/Apple/OneTV-029/playlist.m3u8
 #EXTINF:0 tvg-id="fox_hd"group-title="QUỐC TẾ - QNET" tvg-logo="https://htvc.vn/uploads/editor/images/724_300.png",FOX HD
