@@ -134,7 +134,7 @@ https://vtsstr3.tv24.vn/elive1/_definst_/smil:btv5_HD.smil/chunklist_b2692000.m3
 #EXTINF:-1 tvg-id="MOV" group-title="HanoiCab" tvg-logo="https://i.imgur.com/FD1sjQe.png", MOV - HanoiCab 4
 
 #EXTINF:0 tvg-id="redbyhbohd" group-title="QUỐC TẾ - QNET" tvg-name="Red By HBO HD" tvg-logo="https://imgur.com/tLRt17t.png" ,Red By HBO HD
-http://cdn5.thanden.cf/live/AfZ8KzRhRd4CsJxb3caJUg/1609925532/hbos.m3u8
+http://14.185.136.188:2806/rtp/232.84.3.103:10840
 #EXTINF:0 tvg-id="Cinemax" group-title="QUỐC TẾ - QNET" tvg-name="Max by HBO HD" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/f/f0/611-cinemax.png/250px-611-cinemax.png" ,CINEMAX
 http://36.37.252.114:888/Apple/OneTV-029/playlist.m3u8
 #EXTINF:0 tvg-id="fox_hd"group-title="QUỐC TẾ - QNET" tvg-logo="https://htvc.vn/uploads/editor/images/724_300.png",FOX HD
@@ -197,9 +197,9 @@ http://livecdn.fptplay.net/qnetlive/travelliving_hls.smil/chunklist_b2500000.m3u
 #EXTINF:0 group-title="QUỐC TẾ - QNET" tvg-logo="https://106b9c59d.vws.vegacdn.vn/rBN9EfEEFSyoELIQDjEu/408x230x1583125555/cmc_new/img.live_channel/0/0/0/0/252.jpg" ,KIDS TV
 https://10615fed5.vws.vegacdn.vn/cliptv_liverecord/happykidhd_abr/playlist.m3u8
 #EXTINF:0 group-title="QUỐC TẾ - QNET" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/6/6c/2014_Disney_Channel_logo.svg/1024px-2014_Disney_Channel_logo.svg.png" , Disney Channel
-http://116.108.15.118:8080/m3u8/tvmienphi.m3u8
+http://14.185.136.188:2806/rtp/232.84.2.143:10678
 #EXTINF:0 group-title="QUỐC TẾ - QNET" tvg-logo="https://static.wikia.nocookie.net/disney/images/8/83/Disney_Junior_Logo.png/revision/latest?cb=20180904084738" , Disney Junior
-http://116.108.15.118:8080/m3u8/tvmienphi.m3u8
+http://14.185.136.188:2806/rtp/232.84.1.90:10398
 #EXTINF:0 group-title="QUỐC TẾ - QNET" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/2/2b/Animax_logo.svg/1200px-Animax_logo.svg.png" , Animax
 https://livecdn.fptplay.net/hda3/animaxport_2000.stream/chunklist_b250000.m3u8
 #EXTINF:0 group-title="QUỐC TẾ - QNET" tvg-logo="https://i.pinimg.com/originals/ad/2e/57/ad2e57aa2d71eee1f79fb1b8fcb932da.png" , BBC Earth
