@@ -116,7 +116,7 @@ https://vtsstr3.tv24.vn/elive1/_definst_/smil:btv5_HD.smil/chunklist_b2692000.m3
 
 
 #EXTINF:0 tvg-id="redbyhbohd" group-title="QUỐC TẾ - QNET" tvg-name="Red By HBO HD" tvg-logo="https://imgur.com/tLRt17t.png" ,Red By HBO HD
-http://iptvh.it/Redhbo.qnet
+https://www.livedoomovies.com/02_RedbyHBO_720p/chunklist.m3u8
 #EXTINF:0 tvg-id="Cinemax" group-title="QUỐC TẾ - QNET" tvg-name="Max by HBO HD" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/f/f0/611-cinemax.png/250px-611-cinemax.png" ,CINEMAX
 http://36.37.252.114:888/Apple/OneTV-029/playlist.m3u8
 #EXTINF:0 tvg-id="fox_hd"group-title="QUỐC TẾ - QNET" tvg-logo="https://htvc.vn/uploads/editor/images/724_300.png",FOX HD
@@ -136,7 +136,7 @@ https://livecdn.fptplay.net/qnetlive/foxsports3_2000.stream/chunklist.m3u8
 #EXTINF:0 tvg-id="AXN-ClipTV" group-title="QUỐC TẾ - QNET" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/d/d0/AXN_Logo_2015.png" ,AXN HD
 https://livecdn.fptplay.net/qnetlive/axnhd_hls.smil/chunklist_b2500000.m3u8
 #EXTINF:0 tvg-id="hbohd" group-title="QUỐC TẾ - QNET" tvg-name="HBO HD" tvg-logo="https://logos-download.com/wp-content/uploads/2016/10/HBO_logo_blue.png" ,HBO HD
-http://iptvh.it/hbohd.qnet 
+https://www.livedoomovies.com/02_HBOHD_720p/chunklist.m3u8 
 #EXTINF:0 tvg-id="warner_tv_hd" group-title="QUỐC TẾ - QNET" tvg-logo="https://imgur.com/9qJI1Mg.png",Warner TV
 https://livecdn.fptplay.net/qnetlive/warnertv_2000.stream/chunklist.m3u8
 #EXTINF:0 group-title="QUỐC TẾ - QNET" tvg-logo="https://sites.google.com/site/vtvcaber/kix-hd-vtvcab-logo.png", KIX HD
@@ -188,9 +188,9 @@ http://livecdn.fptplay.net/qnetlive/bbcearth_hls.smil/chunklist_b2500000.m3u8
 #EXTINF:0 group-title="QUỐC TẾ - QNET" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/2/26/Logo_Nat_Geo_Wild.svg/1200px-Logo_Nat_Geo_Wild.svg.png" , National Geographic WILD
 http://htv-drm-live-cdn.fptplay.net/CDN-FPT02/NATGEOWILD-HD-1080p/playlist.m3u8
 #EXTINF:0 group-title="QUỐC TẾ - QNET" tvg-logo="https://upload.wikimedia.org/wikipedia/en/thumb/d/d2/HBO_Family_Asia_logo.svg/1200px-HBO_Family_Asia_logo.svg.png" , HBO Family
-http://iptvh.it/hbofamily.qnet
+http://me.zichannels.my.id/ch/family.m3u8
 #EXTINF:0 group-title="QUỐC TẾ - QNET" tvg-logo="https://upload.wikimedia.org/wikipedia/en/f/fc/HBOHits-ASIA.png" , HBO Hits
-http://iptvh.it/hbohits.qnet
+https://www.livedoomovies.com/02_HBOHit_720p/chunklist.m3u8
 
 #EXTINF:-1 tvg-id="VTC1-ClipTV" tvg-name="VTC1-Cliptv" group-title="VTC" tvg-logo="https://i.imgur.com/4Uljs81.png",VTC1 HD
 https://livecdn.fptplay.net/sdb/vtc1_hls.smil/chunklist_b2500000.m3u8
