@@ -190,7 +190,7 @@ http://htv-drm-live-cdn.fptplay.net/CDN-FPT02/NATGEOWILD-HD-1080p/playlist.m3u8
 #EXTINF:0 group-title="QUỐC TẾ - QNET" tvg-logo="https://upload.wikimedia.org/wikipedia/en/thumb/d/d2/HBO_Family_Asia_logo.svg/1200px-HBO_Family_Asia_logo.svg.png" , HBO Family
 http://iptvh.it/hbofamily.qnet
 #EXTINF:0 group-title="QUỐC TẾ - QNET" tvg-logo="https://upload.wikimedia.org/wikipedia/en/f/fc/HBOHits-ASIA.png" , HBO Hits
-http://36.37.252.114:888/Apple/OneTV-031/playlist.m3u8
+http://iptvh.it/hbohits.qnet
 
 #EXTINF:-1 tvg-id="VTC1-ClipTV" tvg-name="VTC1-Cliptv" group-title="VTC" tvg-logo="https://i.imgur.com/4Uljs81.png",VTC1 HD
 https://livecdn.fptplay.net/sdb/vtc1_hls.smil/chunklist_b2500000.m3u8
