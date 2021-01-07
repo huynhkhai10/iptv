@@ -423,12 +423,6 @@ https://livecdn.fptplay.net/sda/ninhthuan_2000.stream/chunklist.m3u8?token=eyJzZ
 http://36.37.252.114:888/Apple/OneTV-114/playlist.m3u8
 #EXTINF:0 tvg-id="K+PM-HD" group-title="K+" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/9/9e/K%2BPM_HD.png",K+PM HD - ASIA
 http://113.160.106.75/hls/relay/NRCzBqe/index.m3u8
-#EXTINF:0 tvg-id="K+PM-HD" group-title="K+" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/9/9e/K%2BPM_HD.png",K+PM HD
-http://thatslife.cf/stream/channelid/265083351
-#EXTINF:0 tvg-id="K+NS-HD" group-title="K+" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/e/ed/K%2BNS_HD.png",K+NS HD
-https://live.kplus.vn/tv/knshd_hls.smil/hd/1080p/chunklist_b2692000.m3u8
-#EXTINF:0 tvg-id="K+PC-HD" group-title="K+" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/5/59/K%2BPC_HD.png",K+PC HD
-https://live.kplus.vn/tv/kpchd_hls.smil/hd/1080p/chunklist_b2692000.m3u8?token=eyJzZXJ2ZXJfdGltZSI6IDE1ODIzNDc5NjAsICJyZXNvdXJjZV9pZCI6ICJ2dHYxaGRfaGxzIiwgInBhcnRuZXJfaWQiOiAiNTcxM2JlOGMwN2U0MmVkNGI5MTYzODhlIiwgInRva2VuIjogImQxZjUwMGFhNTdjZTg5MDQ3MDExNjA3OWNkYWExNjhkIiwgInZhbGlkX21pbnV0ZXMiOiAxNTgyNDM0MzYwLCAicm1pcCI6ICIyNy43OS4yNTUuMTUzIn0=&user_id=96301827
 
 
 #EXTINF:0 tvg-id="sbs" group-title="HÀN QUỐC" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/c/c0/Seoul_Broadcasting_System_logo.svg/1280px-Seoul_Broadcasting_System_logo.svg.png",SBS
@@ -489,3 +483,55 @@ http://223.110.243.173/PLTV/3/224/3221227220/index.m3u8
 http://223.110.245.157/ott.js.chinamobile.com/PLTV/3/224/3221227439/index.m3u8
 #EXTINF:-1  group-title="TRUNG QUỐC" tvg-logo="https://www.danghongyun.com/uploadfile/upload/2019052817392640.png",NewTV Super Sports HD
 http://117.169.120.160:8080/live/cctv-5/1.m3u8
+
+#EXTINF:-1 tvg-ID="kpluspmhd" group-title="KÊNH THỂ THAO" tvg-logo="https://i.ibb.co/SwckCJV/BEARLIVETV.png", BEAR Live 1
+http://113.160.106.75/hls/relay/NRCzBqe/index.m3u8
+#EXTINF:-1 tvg-logo="https://i.ibb.co/SwckCJV/BEARLIVETV.png" group-title="KÊNH THỂ THAO", BEAR Live 2
+https://livecdn.fptplay.net/italyfootball/seriea01_2000.stream/chunklist.m3u8
+#EXTINF:-1 tvg-logo="https://i.ibb.co/SwckCJV/BEARLIVETV.png" group-title="KÊNH THỂ THAO", BEAR Live 3
+https://livecdn.fptplay.net/italyfootball/seriea03_2000.stream/chunklist.m3u8
+
+#EXTINF: 0 tvg-id="" group-title="KÊNH THỂ THAO" tvg-logo="https://i.ibb.co/ngb5z21/DMS2-BEARTV.png",DIEMA SPORT 2 HD 
+http://136.243.177.164/DIEMASPORT2/playlist.m3u8
+#EXTINF:-1 group-title="KÊNH THỂ THAO" tvg-logo="https://i.ibb.co/X2CPTR0/True-Premier-Football-HD1-BEARTV.png", True Premier Football 1
+http://160.119.77.116:8081/iptv/epl-1.stream/playlist.m3u8
+#EXTINF:-1 group-title="KÊNH THỂ THAO" tvg-logo="https://i.ibb.co/CJhHHS1/True-Premier-Football-HD2-BEARTV.png", True Premier Football 2
+http://160.119.77.116:8081/iptv/epl-2.stream/playlist.m3u8
+
+#EXTINF:-1 tvg-ID="BT Sport 1 HD" tvg-logo="https://i.ibb.co/q0GnHrc/BTSPORT1-BEARTV.png" group-title="KÊNH THỂ THAO",BT SPORT 1
+http://160.119.77.116:8081/iptv/uk-btsport1hd.stream/playlist.m3u8
+#EXTINF:-1 tvg-ID="BT Sport 2 HD" tvg-logo="https://i.ibb.co/NFTL3cQ/BTSPORT2-BEARTV.png" group-title="KÊNH THỂ THAO",BT SPORT 2
+http://160.119.77.116:8081/iptv/uk-btsport2hd.stream/playlist.m3u8
+
+#EXTINF:-1 tvg-logo="https://i.ibb.co/0tjXfkT/SETANTA1-BEARTV.png" group-title="KÊNH THỂ THAO",SETANTA SPORTS 1
+http://92.43.140.200/s81/04.m3u8
+#EXTINF:-1 tvg-logo="https://i.ibb.co/vVwVcHw/SETANTA2-BEARTV.png" group-title="KÊNH THỂ THAO",SETANTA SPORTS 2
+http://92.43.140.200/s82/04.m3u8
+
+#EXTINF:-1 tvg-logo="https://i.ibb.co/vJDPR9h/ASTRO1-BEARTV.png" group-title="KÊNH THỂ THAO",Astro SuperSport
+http://36.37.252.114:888/Apple/OneTV-043/playlist.m3u8
+#EXTINF:-1 tvg-logo="https://i.ibb.co/8Ydf1wj/ASTRO2-BEARTV.png" group-title="KÊNH THỂ THAO",Astro SuperSport 2
+Http://185.39.8.88:8088/live/CjPmGSYrnn/hYxe1Qkbnj/40599.mp2t?token=QhVcUhcJRggXAA1UAQdUVgUBBlFTX1JXVAZTVVVSVAcIVVFXBQMAU1dGGURBEkJRAFtpWgVEXlFdUg1QSkAXElxFa1oAQ14QAVUDUwJXEhhDQl9eBEReUlNUBlFVUVdVChsWQw0FRghbEVkKHkRVTBVTRF0ACjsHABJcAgNAWA9MW1gfRg4KbVEBWAdcAhIOQwcUH0MPFxNHXlsUCg5OQ1teQEEFFQEQDwpACl5KElcOQ1hHEx9GWUcpbENKQAcZTVJaQA0OChAPRkEVEEoSXRJpRFYSEhYGBAlQE0RYQFEbGxZeBRk7UVoKWwNREllbD0UUCUNXRk9HCVoPDxYNE2ZHXVdGWwpHWQhI
+#EXTINF:-1 tvg-logo="https://i.ibb.co/2knS93C/ASTRO3-BEARTV.png" group-title="KÊNH THỂ THAO",Astro SuperSport 3
+http://36.37.252.114:888/Apple/OneTV-044/playlist.m3u8
+
+
+#EXTINF:-1 tvg-id="SPORTTV 1" tvg-logo="https://i.ibb.co/MgRkvX2/SPORTTV1-BEARTV.png" group-title="KÊNH THỂ THAO",SPORT.TV1
+http://77.54.145.209:81/play/a02v
+#EXTINF:-1 tvg-id="SPORTTV 2" tvg-logo="https://i.ibb.co/nwRLMqG/SPORTTV2-BEARTV.png" group-title="KÊNH THỂ THAO",SPORT.TV2 
+http://77.54.145.209:81/play/a02j
+#EXTINF:-1 tvg-id="SPORTTV 3" tvg-logo="https://i.ibb.co/QXDnf3N/SPORTTV3-BEARTV.png" group-title="KÊNH THỂ THAO",SPORT.TV3
+http://77.54.145.209:81/play/a02n
+#EXTINF:-1 tvg-id="SPORTTV 4" tvg-logo="https://i.ibb.co/vh7nD9S/SPORTTV4-BEARTV.png" group-title="KÊNH THỂ THAO",SPORT.TV4
+http://77.54.145.209:81/play/a02o
+
+#EXTINF:-1 tvg-ID="" tvg-logo="https://i.ibb.co/TR0gwRh/SKYEPL-BEARTV.png" group-title="KÊNH THỂ THAO", Sky Sports Premier League
+http://160.119.77.116:8081/iptv/uk-skysports-epl.stream/playlist.m3u8
+#EXTINF:-1 tvg-ID="" tvg-logo="https://i.ibb.co/N32FwCs/SKYF1-BEARTV.png" group-title="KÊNH THỂ THAO", Sky Sports F1
+http://160.119.77.116:8081/iptv/uk-skysports-f1.stream/playlist.m3u8
+#EXTINF:-1 tvg-ID="" tvg-logo="https://i.ibb.co/Qj6tmDG/SKYFOOTBALL-BEARTV.png" group-title="KÊNH THỂ THAO", Sky Sports Football
+http://160.119.77.116:8081/iptv/uk-skysports-football.stream/playlist.m3u8
+
+
+#EXTINF:-1 tvg-ID="" tvg-logo="https://i.ibb.co/VQfwDL9/UFC-BEARTV.png" group-title="KÊNH THỂ THAO", UFC TB HD
+https://s37630.cdn.ngenix.net/hls/CH_UFCHD_HLS/bw5000000/variant.m3u8
