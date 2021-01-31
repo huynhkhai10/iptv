@@ -1,4 +1,4 @@
-#EXTM3U url-tvg="http://gg.gg/epgbeartv" tvg-shift=0 m3uautoload=1 
+#EXTM3U url-tvg="http://gg.gg/epgvn03" tvg-shift=0 m3uautoload=1 
 
 
 #EXTINF:0 tvg-id="vtv1hd"group-title="VTV" tvg-logo="https://i.ibb.co/gywZ98j/VTV1-HD-BEARTV.png",VTV1 HD
