@@ -125,7 +125,7 @@ http://quocthai.duckdns.org:18886/rtp/232.84.1.55:8310
 http://quocthai.duckdns.org:18886/rtp/232.84.2.172:10840
 #EXTINF:0 tvg-id="Cinemax" group-title="QUỐC TẾ" tvg-name="Max by HBO HD" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/f/f0/611-cinemax.png/250px-611-cinemax.png" ,CINEMAX
 http://quocthai.duckdns.org:18886/rtp/232.84.2.139:10654
-#EXTINF:0 tvg-id="fox_hd"group-title="QUỐC TẾ " tvg-logo="https://htvc.vn/uploads/editor/images/724_300.png",FOX HD
+#EXTINF:0 tvg-id="fox_hd"group-title="QUỐC TẾ" tvg-logo="https://htvc.vn/uploads/editor/images/724_300.png",FOX HD
 http://htv-drm-live-cdn.fptplay.net/CDN-FPT02/FOX-HD-1080p/playlist.m3u8?
 #EXTINF:0 tvg-id="Fox Family Movies HD-ClipTV"group-title="QUỐC TẾ" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/5/57/Fox_Family_Movies_logo.png",FOX FAMILY HD
 http://htv-drm-live-cdn.fptplay.net/CDN-FPT02/FOXFAMILY-HD-1080p/playlist.m3u8?
