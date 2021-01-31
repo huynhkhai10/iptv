@@ -427,7 +427,14 @@ https://livecdn.fptplay.net/sda/quangngai_2000.stream/chunklist.m3u8?token=eyJzZ
 https://livecdn.fptplay.net/sda/ninhthuan_2000.stream/chunklist.m3u8?token=eyJzZXJ2ZXJfdGltZSI6IDE1ODQ3MDc4NzUsICJyZXNvdXJjZV9pZCI6ICJuaW5odGh1YW5fMjAwMCIsICJwYXJ0bmVyX2lkIjogIjU3MTNiZThjMDdlNDJlZDRiOTE2Mzg4ZSIsICJ0b2tlbiI6ICI3YWNhZTdiOTZiMmNjMWRjZDZhNmI3YzgyZWM3Yzk1OCIsICJ2YWxpZF9taW51dGVzIjogMTU4NDc5NDI3NSwgInJtaXAiOiAiMTAwLjEyMC4wLjEwNyJ9
 
 #EXTINF:0 tvg-id="K+1-HD" group-title="K+" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/7/78/K%2B1_HD.png",K+1 HD - ASIA
-http://36.37.252.114:888/Apple/OneTV-114/playlist.m3u8
+http://tvh.trialsonreal.net/k1hd/index.m3u8
+#EXTINF:0 tvg-id="K+PM-HD" group-title="K+" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/9/9e/K%2BPM_HD.png",K+PM HD
+http://tvh.trialsonreal.net/kpmhd/index.m3u8
+#EXTINF:0 tvg-id="K+NS-HD" group-title="K+" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/e/ed/K%2BNS_HD.png",K+NS HD
+http://tvh.trialsonreal.net/knshd/index.m3u8
+#EXTINF:0 tvg-id="K+PC-HD" group-title="K+" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/5/59/K%2BPC_HD.png",K+PC HD
+http://tvh.trialsonreal.net/kpchd/index.m3u8
+
 
 #EXTINF:-1 tvg-id="" tvg-logo="https://pbs.twimg.com/profile_images/1014060574571786240/Gk87hUF8_400x400.jpg" group-title="THÁI LAN",Cartoon Club
 https://edge2-bkk.3bb.co.th:9443/CartoonClub_Livestream/cartoonclub_480P.stream/playlist.m3u8
