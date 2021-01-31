@@ -121,81 +121,81 @@ https://vtsstr3.tv24.vn/elive1/_definst_/smil:btv5_HD.smil/chunklist_b2692000.m3
 #EXTINF:-1 tvg-id="HiTV" group-title="HanoiCab" tvg-logo="https://namhuongcorp.com.vn/wp-content/uploads/2018/08/logo-hitv.png", HiTV - HanoiCab 1
 http://quocthai.duckdns.org:18886/rtp/232.84.1.55:8310
 
-#EXTINF:0 tvg-id="redbyhbohd" group-title="QUỐC TẾ - QNET" tvg-name="Red By HBO HD" tvg-logo="https://imgur.com/tLRt17t.png" ,Red By HBO HD
+#EXTINF:0 tvg-id="redbyhbohd" group-title="QUỐC TẾ" tvg-name="Red By HBO HD" tvg-logo="https://imgur.com/tLRt17t.png" ,Red By HBO HD
 http://quocthai.duckdns.org:18886/rtp/232.84.2.172:10840
-#EXTINF:0 tvg-id="Cinemax" group-title="QUỐC TẾ - QNET" tvg-name="Max by HBO HD" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/f/f0/611-cinemax.png/250px-611-cinemax.png" ,CINEMAX
+#EXTINF:0 tvg-id="Cinemax" group-title="QUỐC TẾ" tvg-name="Max by HBO HD" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/f/f0/611-cinemax.png/250px-611-cinemax.png" ,CINEMAX
 http://quocthai.duckdns.org:18886/rtp/232.84.2.139:10654
-#EXTINF:0 tvg-id="fox_hd"group-title="QUỐC TẾ - QNET" tvg-logo="https://htvc.vn/uploads/editor/images/724_300.png",FOX HD
+#EXTINF:0 tvg-id="fox_hd"group-title="QUỐC TẾ " tvg-logo="https://htvc.vn/uploads/editor/images/724_300.png",FOX HD
 http://htv-drm-live-cdn.fptplay.net/CDN-FPT02/FOX-HD-1080p/playlist.m3u8?
-#EXTINF:0 tvg-id="Fox Family Movies HD-ClipTV"group-title="QUỐC TẾ - QNET" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/5/57/Fox_Family_Movies_logo.png",FOX FAMILY HD
+#EXTINF:0 tvg-id="Fox Family Movies HD-ClipTV"group-title="QUỐC TẾ" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/5/57/Fox_Family_Movies_logo.png",FOX FAMILY HD
 http://htv-drm-live-cdn.fptplay.net/CDN-FPT02/FOXFAMILY-HD-1080p/playlist.m3u8?
-#EXTINF:0 tvg-id="fox_movies" group-title="QUỐC TẾ - QNET" tvg-logo="https://www.digitalsimon.com/uploads/5/9/5/7/59574985/foxmovies-white-rgb_orig.png",FOX Movies HD
+#EXTINF:0 tvg-id="fox_movies" group-title="QUỐC TẾ" tvg-logo="https://www.digitalsimon.com/uploads/5/9/5/7/59574985/foxmovies-white-rgb_orig.png",FOX Movies HD
 http://htv-drm-live-cdn.fptplay.net/CDN-FPT02/FOXMOVIES-HD-1080p/playlist.m3u8
-#EXTINF: tvg-id="" tvg-name="FOXlife HD" group-title="QUỐC TẾ - QNET" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/4/44/Fox-Life.png" ,FOX LIFE HD
+#EXTINF: tvg-id="" tvg-name="FOXlife HD" group-title="QUỐC TẾ" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/4/44/Fox-Life.png" ,FOX LIFE HD
 https://livecdn.fptplay.net/foxlive/foxlifehd_hls.smil/chunklist_b2500000.m3u8
-#EXTINF:0 tvg-id="FOX SPORTS-ClipTV" group-title="QUỐC TẾ - QNET" tvg-logo="https://upload.wikimedia.org/wikipedia/en/thumb/3/3a/Fox_Sports_Logo.svg/1024px-Fox_Sports_Logo.svg.png", FOX SPORT HD
+#EXTINF:0 tvg-id="FOX SPORTS-ClipTV" group-title="QUỐC TẾ" tvg-logo="https://upload.wikimedia.org/wikipedia/en/thumb/3/3a/Fox_Sports_Logo.svg/1024px-Fox_Sports_Logo.svg.png", FOX SPORT HD
 https://livecdn.fptplay.net/qnetlive/foxsports_2000.stream/chunklist.m3u8
-#EXTINF:0 tvg-id="FOX SPORTS 2-ClipTV" group-title="QUỐC TẾ - QNET" tvg-logo="http://img.hplus.com.vn/460x260/poster/2019/08/16/622510-foxsport2.png", FOX SPORT 2 HD
+#EXTINF:0 tvg-id="FOX SPORTS 2-ClipTV" group-title="QUỐC TẾ" tvg-logo="http://img.hplus.com.vn/460x260/poster/2019/08/16/622510-foxsport2.png", FOX SPORT 2 HD
 https://livecdn.fptplay.net/qnetlive/foxsports2_2000.stream/chunklist.m3u8
-#EXTINF:0 tvg-id="FOX SPORTS 3-ClipTV" group-title="QUỐC TẾ - QNET" tvg-logo="http://img.hplus.com.vn/460x260/poster/2019/07/16/851322-foxsport_3.png", FOX SPORT 3 HD
+#EXTINF:0 tvg-id="FOX SPORTS 3-ClipTV" group-title="QUỐC TẾ" tvg-logo="http://img.hplus.com.vn/460x260/poster/2019/07/16/851322-foxsport_3.png", FOX SPORT 3 HD
 https://livecdn.fptplay.net/qnetlive/foxsports3_2000.stream/chunklist.m3u8
-#EXTINF:0 tvg-id="AXN-ClipTV" group-title="QUỐC TẾ - QNET" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/d/d0/AXN_Logo_2015.png" ,AXN HD
+#EXTINF:0 tvg-id="AXN-ClipTV" group-title="QUỐC TẾ" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/d/d0/AXN_Logo_2015.png" ,AXN HD
 https://livecdn.fptplay.net/qnetlive/axnhd_hls.smil/chunklist_b2500000.m3u8
-#EXTINF:0 tvg-id="hbohd" group-title="QUỐC TẾ - QNET" tvg-name="HBO HD" tvg-logo="https://logos-download.com/wp-content/uploads/2016/10/HBO_logo_blue.png" ,HBO HD
+#EXTINF:0 tvg-id="hbohd" group-title="QUỐC TẾ" tvg-name="HBO HD" tvg-logo="https://logos-download.com/wp-content/uploads/2016/10/HBO_logo_blue.png" ,HBO HD
 http://quocthai.duckdns.org:18886/rtp/232.84.2.138:10648 
-#EXTINF:0 tvg-id="warner_tv_hd" group-title="QUỐC TẾ - QNET" tvg-logo="https://imgur.com/9qJI1Mg.png",Warner TV
+#EXTINF:0 tvg-id="warner_tv_hd" group-title="QUỐC TẾ" tvg-logo="https://imgur.com/9qJI1Mg.png",Warner TV
 https://livecdn.fptplay.net/qnetlive/warnertv_2000.stream/chunklist.m3u8
-#EXTINF:0 group-title="QUỐC TẾ - QNET" tvg-logo="https://sites.google.com/site/vtvcaber/kix-hd-vtvcab-logo.png", KIX HD
+#EXTINF:0 group-title="QUỐC TẾ" tvg-logo="https://sites.google.com/site/vtvcaber/kix-hd-vtvcab-logo.png", KIX HD
 https://livecdn.fptplay.net/hda/kixhd_hls.smil/chunklist_b2500000.m3u8
-#EXTINF:-1 tvg-id="Channel V HD-ClipTV" group-title="QUỐC TẾ - QNET" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/4/4b/Channel_V_Logo.svg/200px-Channel_V_Logo.svg.png", Channel V HD
+#EXTINF:-1 tvg-id="Channel V HD-ClipTV" group-title="QUỐC TẾ" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/4/4b/Channel_V_Logo.svg/200px-Channel_V_Logo.svg.png", Channel V HD
 http://htv-drm-live-cdn.fptplay.net/CDN-FPT02/CHANNELV-HD-1080p/playlist.m3u8
-#EXTINF:-1 tvg-id="cartoonhd" group-title="QUỐC TẾ - QNET" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/8/80/Cartoon_Network_2010_logo.svg/200px-Cartoon_Network_2010_logo.svg.png", Cartoon Network
+#EXTINF:-1 tvg-id="cartoonhd" group-title="QUỐC TẾ" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/8/80/Cartoon_Network_2010_logo.svg/200px-Cartoon_Network_2010_logo.svg.png", Cartoon Network
 https://livecdn.fptplay.net/qnetlive/cartoonnetworkhd_2000.stream/chunklist.m3u8
-#EXTINF:-1 tvg-id="boomerang" group-title="QUỐC TẾ - QNET" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/4/41/Boomerang_tv_logo.png/758px-Boomerang_tv_logo.png", Boomerang
+#EXTINF:-1 tvg-id="boomerang" group-title="QUỐC TẾ" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/4/41/Boomerang_tv_logo.png/758px-Boomerang_tv_logo.png", Boomerang
 https://livecdn.fptplay.net/qnetlive/boomerang_hls.smil/chunklist_b2500000.m3u8
-#EXTINF:0 tvg-id="Cbeebies" group-title="QUỐC TẾ - QNET" tvg-logo="https://i.ibb.co/PYK3X5y/CBeebies-BEARTV.png" , Cbeebies
+#EXTINF:0 tvg-id="Cbeebies" group-title="QUỐC TẾ" tvg-logo="https://i.ibb.co/PYK3X5y/CBeebies-BEARTV.png" , Cbeebies
 https://livecdn.fptplay.net/hda3/cbeebies_2000.stream/chunklist.m3u8
-#EXTINF:0 tvg-id="Baby TV HD-ClipTV" group-title="QUỐC TẾ - QNET" tvg-logo="https://seeklogo.com/images/B/babyfirst-tv-logo-B87A17BB2F-seeklogo.com.png" , Baby First
+#EXTINF:0 tvg-id="Baby TV HD-ClipTV" group-title="QUỐC TẾ" tvg-logo="https://seeklogo.com/images/B/babyfirst-tv-logo-B87A17BB2F-seeklogo.com.png" , Baby First
 https://livecdn.fptplay.net/qnetlive/babyfirst_hls.smil/chunklist_b2500000.m3u8
-#EXTINF:0 tvg-id="Animal Planet-ClipTV" group-title="QUỐC TẾ - QNET" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/2/20/2018_Animal_Planet_logo.svg/1280px-2018_Animal_Planet_logo.svg.png" , Animal Planet
+#EXTINF:0 tvg-id="Animal Planet-ClipTV" group-title="QUỐC TẾ" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/2/20/2018_Animal_Planet_logo.svg/1280px-2018_Animal_Planet_logo.svg.png" , Animal Planet
 https://livecdn.fptplay.net/qnetlive/animalplanet_hls.smil/chunklist_b2500000.m3u8
-#EXTINF:-1 tvg-id="" group-title="QUỐC TẾ - QNET" tvg-logo="https://cinemaworld.asia/wp-content/uploads/2019/11/CMW-gold-logo-for-website-loading.png", Cinema World
+#EXTINF:-1 tvg-id="" group-title="QUỐC TẾ" tvg-logo="https://cinemaworld.asia/wp-content/uploads/2019/11/CMW-gold-logo-for-website-loading.png", Cinema World
 https://livecdn.fptplay.net/qnetlive/cinemawork_hls.smil/chunklist_b2500000.m3u8
-#EXTINF:-1 tvg-id="Da Vinci" tvg-logo="https://www.davincikids.tv/wp-content/uploads/2019/12/Da-Vinci-Primary-Logo-RGB.png" tvg-name="Da Vinci (HD)"  group-title="QUỐC TẾ - QNET",Da Vinci HD
+#EXTINF:-1 tvg-id="Da Vinci" tvg-logo="https://www.davincikids.tv/wp-content/uploads/2019/12/Da-Vinci-Primary-Logo-RGB.png" tvg-name="Da Vinci (HD)"  group-title="QUỐC TẾ",Da Vinci HD
 http://htv-drm-live-cdn.fptplay.net/CDN-FPT02/DAVINCY-HD-1080p/playlist.m3u8?
-#EXTINF:-1 tvg-id="Asian Food Channel" tvg-logo="http://htvc.vn/uploads/channel/2019/11/28/2139383-afn-logo-cmyk-f.png" group-title="QUỐC TẾ - QNET",Asian Food Network
+#EXTINF:-1 tvg-id="Asian Food Channel" tvg-logo="http://htvc.vn/uploads/channel/2019/11/28/2139383-afn-logo-cmyk-f.png" group-title="QUỐC TẾ",Asian Food Network
 http://htv-drm-live-cdn.fptplay.net/CDN-FPT02/AFC-HD-1080p/playlist.m3u8
-#EXTINF:0 group-title="QUỐC TẾ - QNET" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/7/78/Blue_ant_entertainment_logo.png" , Blue Ant Entertainment
+#EXTINF:0 group-title="QUỐC TẾ" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/7/78/Blue_ant_entertainment_logo.png" , Blue Ant Entertainment
 https://livecdn.fptplay.net/hda/blueantent_hls.smil/chunklist_b2500000.m3u8
-#EXTINF:0 group-title="QUỐC TẾ - QNET" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/d/d3/Blue_ant_extreme_logo.png" , Blue Ant Extreme
+#EXTINF:0 group-title="QUỐC TẾ" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/d/d3/Blue_ant_extreme_logo.png" , Blue Ant Extreme
 https://livecdn.fptplay.net/hda/blueantext_hls.smil/chunklist_b2500000.m3u8
-#EXTINF:0 group-title="QUỐC TẾ - QNET" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/1/13/National_Geographic_Channel.svg/1024px-National_Geographic_Channel.svg.png" , National Geographic HD
+#EXTINF:0 group-title="QUỐC TẾ" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/1/13/National_Geographic_Channel.svg/1024px-National_Geographic_Channel.svg.png" , National Geographic HD
 https://livecdn.fptplay.net/foxlive/natgeohd_hls.smil/chunklist_b2500000.m3u8
-#EXTINF:0 group-title="QUỐC TẾ - QNET" tvg-logo="https://assets.simpleviewinc.com/simpleview/image/fetch/c_fill,h_183,q_75,w_200/https://assets.simpleviewinc.com/simpleview/image/upload/v1/clients/panamacitybeach/DSC_Logo_2019_c9603f49-e177-4b09-9619-dfffdbd91b15.jpg" , Discovery Channel
+#EXTINF:0 group-title="QUỐC TẾ" tvg-logo="https://assets.simpleviewinc.com/simpleview/image/fetch/c_fill,h_183,q_75,w_200/https://assets.simpleviewinc.com/simpleview/image/upload/v1/clients/panamacitybeach/DSC_Logo_2019_c9603f49-e177-4b09-9619-dfffdbd91b15.jpg" , Discovery Channel
 https://livecdn.fptplay.net/qnetlive/discovery_hls.smil/chunklist_b2500000.m3u8
-#EXTINF:0 group-title="QUỐC TẾ - QNET" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/8/89/Outdoor_Channel.svg/1200px-Outdoor_Channel.svg.png" , Outdoor Channel
+#EXTINF:0 group-title="QUỐC TẾ" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/8/89/Outdoor_Channel.svg/1200px-Outdoor_Channel.svg.png" , Outdoor Channel
 https://livecdn.fptplay.net/world/outdoorfhd_hls.smil/chunklist_b2500000.m3u8
-#EXTINF:0 group-title="QUỐC TẾ - QNET" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/7/7a/Fashion_TV_logo.svg/800px-Fashion_TV_logo.svg.png" , Fashion TV
+#EXTINF:0 group-title="QUỐC TẾ" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/7/7a/Fashion_TV_logo.svg/800px-Fashion_TV_logo.svg.png" , Fashion TV
 https://livecdn.fptplay.net/qnetlive/fashiontvhd_hls.smil/chunklist_b2500000.m3u8
-#EXTINF:0 group-title="QUỐC TẾ - QNET" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/a/af/TLC-Logo_2016.png/800px-TLC-Logo_2016.png" , TLC
+#EXTINF:0 group-title="QUỐC TẾ" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/a/af/TLC-Logo_2016.png/800px-TLC-Logo_2016.png" , TLC
 http://livecdn.fptplay.net/qnetlive/travelliving_hls.smil/chunklist_b2500000.m3u8
-#EXTINF:0 group-title="QUỐC TẾ - QNET" tvg-logo="https://106b9c59d.vws.vegacdn.vn/rBN9EfEEFSyoELIQDjEu/408x230x1583125555/cmc_new/img.live_channel/0/0/0/0/252.jpg" ,KIDS TV
+#EXTINF:0 group-title="QUỐC TẾ" tvg-logo="https://106b9c59d.vws.vegacdn.vn/rBN9EfEEFSyoELIQDjEu/408x230x1583125555/cmc_new/img.live_channel/0/0/0/0/252.jpg" ,KIDS TV
 http://116.108.15.118:8080/m3u8/tvmienphi.m3u8
-#EXTINF:0 group-title="QUỐC TẾ - QNET" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/6/6c/2014_Disney_Channel_logo.svg/1024px-2014_Disney_Channel_logo.svg.png" , Disney Channel
+#EXTINF:0 group-title="QUỐC TẾ" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/6/6c/2014_Disney_Channel_logo.svg/1024px-2014_Disney_Channel_logo.svg.png" , Disney Channel
 http://quocthai.duckdns.org:18886/rtp/232.84.2.143:10678
-#EXTINF:0 group-title="QUỐC TẾ - QNET" tvg-logo="https://static.wikia.nocookie.net/disney/images/8/83/Disney_Junior_Logo.png/revision/latest?cb=20180904084738" , Disney Junior
+#EXTINF:0 group-title="QUỐC TẾ" tvg-logo="https://static.wikia.nocookie.net/disney/images/8/83/Disney_Junior_Logo.png/revision/latest?cb=20180904084738" , Disney Junior
 http://quocthai.duckdns.org:18886/rtp/232.84.1.90:10398
-#EXTINF:0 group-title="QUỐC TẾ - QNET" tvg-logo="https://thelink.harding.edu/the-bison/wp-content/uploads/sites/8/Artboard-1-4.png" , Disney+
+#EXTINF:0 group-title="QUỐC TẾ" tvg-logo="https://thelink.harding.edu/the-bison/wp-content/uploads/sites/8/Artboard-1-4.png" , Disney+
 http://iptvh.it/disneyplus
-#EXTINF:0 group-title="QUỐC TẾ - QNET" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/2/2b/Animax_logo.svg/1200px-Animax_logo.svg.png" , Animax
+#EXTINF:0 group-title="QUỐC TẾ" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/2/2b/Animax_logo.svg/1200px-Animax_logo.svg.png" , Animax
 https://livecdn.fptplay.net/hda3/animaxport_2000.stream/chunklist_b250000.m3u8
-#EXTINF:0 group-title="QUỐC TẾ - QNET" tvg-logo="https://i.pinimg.com/originals/ad/2e/57/ad2e57aa2d71eee1f79fb1b8fcb932da.png" , BBC Earth
+#EXTINF:0 group-title="QUỐC TẾ" tvg-logo="https://i.pinimg.com/originals/ad/2e/57/ad2e57aa2d71eee1f79fb1b8fcb932da.png" , BBC Earth
 http://livecdn.fptplay.net/qnetlive/bbcearth_hls.smil/chunklist_b2500000.m3u8
-#EXTINF:0 group-title="QUỐC TẾ - QNET" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/2/26/Logo_Nat_Geo_Wild.svg/1200px-Logo_Nat_Geo_Wild.svg.png" , National Geographic WILD
+#EXTINF:0 group-title="QUỐC TẾ" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/2/26/Logo_Nat_Geo_Wild.svg/1200px-Logo_Nat_Geo_Wild.svg.png" , National Geographic WILD
 http://htv-drm-live-cdn.fptplay.net/CDN-FPT02/NATGEOWILD-HD-1080p/playlist.m3u8
-#EXTINF:0 group-title="QUỐC TẾ - QNET" tvg-logo="https://upload.wikimedia.org/wikipedia/en/thumb/d/d2/HBO_Family_Asia_logo.svg/1200px-HBO_Family_Asia_logo.svg.png" , HBO Family
+#EXTINF:0 group-title="QUỐC TẾ" tvg-logo="https://upload.wikimedia.org/wikipedia/en/thumb/d/d2/HBO_Family_Asia_logo.svg/1200px-HBO_Family_Asia_logo.svg.png" , HBO Family
 http://me.zichannels.my.id/ch/family.m3u8
-#EXTINF:0 group-title="QUỐC TẾ - QNET" tvg-logo="https://upload.wikimedia.org/wikipedia/en/f/fc/HBOHits-ASIA.png" , HBO Hits
+#EXTINF:0 group-title="QUỐC TẾ" tvg-logo="https://upload.wikimedia.org/wikipedia/en/f/fc/HBOHits-ASIA.png" , HBO Hits
 https://www.livedoomovies.com/02_HBOHit_720p/chunklist.m3u8
 
 #EXTINF:-1 tvg-id="VTC1-ClipTV" tvg-name="VTC1-Cliptv" group-title="VTC" tvg-logo="https://i.imgur.com/4Uljs81.png",VTC1 HD
