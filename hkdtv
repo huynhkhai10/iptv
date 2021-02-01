@@ -245,9 +245,9 @@ https://livecdn.fptplay.net/sdb/htv4_hls.smil/chunklist_b2500000.m3u8
 #EXTINF:-1 tvg-id="HTV THE THAO" tvg-name="HTV THE THAO" group-title="HTV" tvg-logo="http://htvc.vn/uploads/editor/images/logo%20htv%20the%20thao.png",HTV THỂ THAO HD
 http://htv-drm-live-cdn.fptplay.net/CDN-FPT02/HTV-THETHAO-HD-1080p/playlist.m3u8?
 #EXTINF:-1 tvg-id="HTV7 HD-ClipTV"tvg-logo="http://htvc.vn/uploads/cache/thumbnail/2015-03-26/9900806-logo-htv7hd-a.png" group-title="HTV",HTV7 HD
-http://htv-drm-live-cdn.fptplay.net/CDN-FPT02/HTV7-HD-1080p/playlist.m3u8?
+https://livecdn.fptplay.net/hda/htv7hd_hls.smil/playlist.m3u8?token=eyJzZXJ2ZXJfdGltZSI6IDE2MTIxNTQ1ODgsICJyZXNvdXJjZV9pZCI6ICJodHY3aGRfaGxzIiwgInBhcnRuZXJfaWQiOiAiNTcxM2JlOGMwN2U0MmVkNGI5MTYzODhlIiwgInRva2VuIjogImNkMGIwODQ2OWExN2FjMDg3ZGE3M2VjYjNkMzc1NGI3IiwgInZhbGlkX21pbnV0ZXMiOiAxNjEyMjQwOTg4LCAicm1pcCI6ICIxMjUuMjM1LjIzNy4xNSJ9&user_id=4748331?
 #EXTINF:-1 tvg-id="htv9hd"tvg-logo="https://i.ibb.co/4VNDzHh/HTV9-BEARTV.png" group-title="HTV",HTV9 HD
-http://htv-drm-live-cdn.fptplay.net/CDN-FPT02/HTV9-HD-1080p/playlist.m3u8
+https://livecdn.fptplay.net/hda/htv9hd_hls.smil/playlist.m3u8?token=eyJzZXJ2ZXJfdGltZSI6IDE2MTIxNTQ2OTYsICJyZXNvdXJjZV9pZCI6ICJodHY5aGRfaGxzIiwgInBhcnRuZXJfaWQiOiAiNTcxM2JlOGMwN2U0MmVkNGI5MTYzODhlIiwgInRva2VuIjogImYxMTExZjkzNzEwMDlmNjIwY2I3NmY1NDBmZThmOWMwIiwgInZhbGlkX21pbnV0ZXMiOiAxNjEyMjQxMDk2LCAicm1pcCI6ICIxMjUuMjM1LjIzNy4xNSJ9&user_id=4748331
 #EXTINF:-1 tvg-id="HTVC"tvg-logo="http://www.htvc.vn/uploads/cache/thumbnail/2017-04-10/2028200-ca-nhac-01.png" group-title="HTV",HTVC CA NHAC
 http://htv-drm-live-cdn.fptplay.net/CDN-FPT02/HTVC-CANHAC-HD-1080p/chunks.m3u8?
 #EXTINF:-1 tvg-id="HTVC DU LICH CUOC SONG"tvg-logo="https://imgur.com/nTF9DFR.png"group-title="HTV",HTVC DU LICH CUOC SONG
