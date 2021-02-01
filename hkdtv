@@ -248,17 +248,17 @@ http://htv-drm-live-cdn.fptplay.net/CDN-FPT02/HTV-THETHAO-HD-1080p/playlist.m3u8
 https://livecdn.fptplay.net/hda/htv7hd_hls.smil/playlist.m3u8?token=eyJzZXJ2ZXJfdGltZSI6IDE2MTIxNTQ1ODgsICJyZXNvdXJjZV9pZCI6ICJodHY3aGRfaGxzIiwgInBhcnRuZXJfaWQiOiAiNTcxM2JlOGMwN2U0MmVkNGI5MTYzODhlIiwgInRva2VuIjogImNkMGIwODQ2OWExN2FjMDg3ZGE3M2VjYjNkMzc1NGI3IiwgInZhbGlkX21pbnV0ZXMiOiAxNjEyMjQwOTg4LCAicm1pcCI6ICIxMjUuMjM1LjIzNy4xNSJ9&user_id=4748331?
 #EXTINF:-1 tvg-id="htv9hd"tvg-logo="https://i.ibb.co/4VNDzHh/HTV9-BEARTV.png" group-title="HTV",HTV9 HD
 https://livecdn.fptplay.net/hda/htv9hd_hls.smil/playlist.m3u8?token=eyJzZXJ2ZXJfdGltZSI6IDE2MTIxNTQ2OTYsICJyZXNvdXJjZV9pZCI6ICJodHY5aGRfaGxzIiwgInBhcnRuZXJfaWQiOiAiNTcxM2JlOGMwN2U0MmVkNGI5MTYzODhlIiwgInRva2VuIjogImYxMTExZjkzNzEwMDlmNjIwY2I3NmY1NDBmZThmOWMwIiwgInZhbGlkX21pbnV0ZXMiOiAxNjEyMjQxMDk2LCAicm1pcCI6ICIxMjUuMjM1LjIzNy4xNSJ9&user_id=4748331
-#EXTINF:-1 tvg-id="HTVC"tvg-logo="http://www.htvc.vn/uploads/cache/thumbnail/2017-04-10/2028200-ca-nhac-01.png" group-title="HTV",HTVC CA NHAC
+#EXTINF:-1 tvg-id="HTVC"tvg-logo="http://www.htvc.vn/uploads/cache/thumbnail/2017-04-10/2028200-ca-nhac-01.png" group-title="HTVC",HTVC CA NHAC
 http://htv-drm-live-cdn.fptplay.net/CDN-FPT02/HTVC-CANHAC-HD-1080p/chunks.m3u8?
-#EXTINF:-1 tvg-id="HTVC DU LICH CUOC SONG"tvg-logo="https://imgur.com/nTF9DFR.png"group-title="HTV",HTVC DU LICH CUOC SONG
+#EXTINF:-1 tvg-id="HTVC DU LICH CUOC SONG"tvg-logo="https://imgur.com/nTF9DFR.png"group-title="HTVC",HTVC DU LICH CUOC SONG
 http://htv-drm-live-cdn.fptplay.net/CDN-FPT02/HTVC-DULICH-HD-1080p/chunks.m3u8?
-#EXTINF:-1 tvg-id="HTVC"tvg-logo="http://htvc.vn/uploads/cache/thumbnail/2018-06-06/3590945-logo-htvc-gia-d.png" group-title="HTV",HTVC GIA DINH
+#EXTINF:-1 tvg-id="HTVC"tvg-logo="http://htvc.vn/uploads/cache/thumbnail/2018-06-06/3590945-logo-htvc-gia-d.png" group-title="HTVC",HTVC GIA DINH
 http://htv-drm-live-cdn.fptplay.net/CDN-FPT02/HTVC-GIADINH-HD-1080p/playlist.m3u8?
-#EXTINF:-1 tvg-id="HTVC"tvg-logo="http://www.htvc.vn/uploads/cache/thumbnail/2017-04-10/563560-logo-kenh-phim-.png" group-title="HTV",HTVC PHIM
+#EXTINF:-1 tvg-id="HTVC"tvg-logo="http://www.htvc.vn/uploads/cache/thumbnail/2017-04-10/563560-logo-kenh-phim-.png" group-title="HTVC",HTVC PHIM
 http://htv-drm-live-cdn.fptplay.net/CDN-FPT02/HTVC-PHIM-HD-1080p/playlist.m3u8?
-#EXTINF:-1 tvg-id="HTVC"tvg-logo="http://www.htvc.vn/uploads/cache/thumbnail/2016-10-20/5657089-logo-phunu-fina.png" group-title="HTV",HTVC PHU NU
+#EXTINF:-1 tvg-id="HTVC"tvg-logo="http://www.htvc.vn/uploads/cache/thumbnail/2016-10-20/5657089-logo-phunu-fina.png" group-title="HTVC",HTVC PHU NU
 http://htv-drm-live-cdn.fptplay.net/CDN-FPT02/HTVC-PHUNU-HD-1080p/chunks.m3u8?
-#EXTINF:-1 tvg-id="HTVC THUAN VIET HD"tvg-logo="http://www.htvc.vn/uploads/cache/thumbnail/2016-08-16/2581034-365940-logoc-th.png" group-title="HTV",HTVC Thuan Viet
+#EXTINF:-1 tvg-id="HTVC THUAN VIET HD"tvg-logo="http://www.htvc.vn/uploads/cache/thumbnail/2016-08-16/2581034-365940-logoc-th.png" group-title="HTVC",HTVC Thuan Viet
 http://htv-drm-live-cdn.fptplay.net/CDN-FPT02/HTVC-THUANVIET-HD-1080p/chunks.m3u8
 #EXTINF:-1 tvg-id="HTVC"tvg-logo="http://img.hplus.com.vn/728x409/banner/2018/06/05/879824-ThuanVietHD1.png" ,HTVC Thuần Việt HD
 http://htv-drm-live-cdn.fptplay.net/CDN-FPT02/HTVC-THUANVIETHD-HD-1080p/playlist.m3u8?
