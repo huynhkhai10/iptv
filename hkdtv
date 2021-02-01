@@ -533,3 +533,6 @@ http://iptvh.it/tv33
 http://iptvh.it/tv44
 #EXTINF:-1 tvg-id="" tvg-logo="https://www.doomovie-hd.com/assets/img/ch_logo/hd-sporttv5.jpg" group-title="KÊNH THỂ THAO",Sport TV 5
 http://iptvh.it/tv55
+
+#EXTINF:-1 tvg-id="" tvg-logo="https://pbs.twimg.com/profile_images/1014060574571786240/Gk87hUF8_400x400.jpg" group-title="THÁI LAN",Cartoon Club
+https://edge2-bkk.3bb.co.th:9443/CartoonClub_Livestream/cartoonclub_480P.stream/playlist.m3u8
