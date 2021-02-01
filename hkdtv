@@ -127,7 +127,7 @@ https://livecdn.fptplay.net/hda/kixhd_hls.smil/chunklist_b2500000.m3u8
 #EXTINF:-1 tvg-id="Channel V HD-ClipTV" group-title="QUỐC TẾ" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/4/4b/Channel_V_Logo.svg/200px-Channel_V_Logo.svg.png", Channel V HD
 http://htv-drm-live-cdn.fptplay.net/CDN-FPT02/CHANNELV-HD-1080p/playlist.m3u8
 #EXTINF:-1 tvg-id="cartoonhd" group-title="QUỐC TẾ" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/8/80/Cartoon_Network_2010_logo.svg/200px-Cartoon_Network_2010_logo.svg.png", Cartoon Network $
-https://media.publit.io/file/Videokhoakenh/InShot_20210201_140613488.mp4id=985c63&efg=eyJ2ZW5jb2RlX3RhZyI6ImxlZ2FjeV9zZCJ9&_nc_ohc=kYFzUIdjU4gAX9AIbNd&_nc_ht=video.fsgn5-4.fna&oh=a4a96a8c79583ae40a6e9dd42fb7d7e0&oe=6017CDC8
+https://media.publit.io/file/Videokhoakenh/InShot_20210201_140613488.mp4
 #EXTINF:-1 tvg-id="boomerang" group-title="QUỐC TẾ" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/4/41/Boomerang_tv_logo.png/758px-Boomerang_tv_logo.png", Boomerang
 https://livecdn.fptplay.net/qnetlive/boomerang_hls.smil/chunklist_b2500000.m3u8
 #EXTINF:0 tvg-id="Cbeebies" group-title="QUỐC TẾ" tvg-logo="https://i.ibb.co/PYK3X5y/CBeebies-BEARTV.png" , Cbeebies
@@ -171,7 +171,7 @@ http://livecdn.fptplay.net/qnetlive/bbcearth_hls.smil/chunklist_b2500000.m3u8
 #EXTINF:0 group-title="QUỐC TẾ" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/2/26/Logo_Nat_Geo_Wild.svg/1200px-Logo_Nat_Geo_Wild.svg.png" , National Geographic WILD
 http://htv-drm-live-cdn.fptplay.net/CDN-FPT02/NATGEOWILD-HD-1080p/playlist.m3u8
 #EXTINF:0 group-title="QUỐC TẾ" tvg-logo="https://upload.wikimedia.org/wikipedia/en/thumb/d/d2/HBO_Family_Asia_logo.svg/1200px-HBO_Family_Asia_logo.svg.png" , HBO Family $
-https://video.fsgn5-4.fna.fbcdn.net/v/t42.1790-2/144819878_2809770352685049_8076440733438704758_n.mp4?_nc_cat=104&ccb=2&_nc_sid=985c63&efg=eyJ2ZW5jb2RlX3RhZyI6ImxlZ2FjeV9zZCJ9&_nc_ohc=kYFzUIdjU4gAX9AIbNd&_nc_ht=video.fsgn5-4.fna&oh=a4a96a8c79583ae40a6e9dd42fb7d7e0&oe=6017CDC8
+https://media.publit.io/file/Videokhoakenh/InShot_20210201_140613488.mp4
 #EXTINF:0 group-title="QUỐC TẾ" tvg-logo="https://upload.wikimedia.org/wikipedia/en/f/fc/HBOHits-ASIA.png" , HBO Hits
 https://www.livedoomovies.com/02_HBOHit_720p/chunklist.m3u8
 
