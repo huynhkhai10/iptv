@@ -306,9 +306,9 @@ https://live.baobinhphuoc.com.vn/bptvlive/tv1live.m3u8
 #EXTINF:0 group-title="KÊNH ĐỊA PHƯƠNG" tvg-logo="https://i.ibb.co/whZsp2n/BPTV2-Home-TV-BEARTV.png", Bình Phước 2 - HOME TV
 https://live.baobinhphuoc.com.vn/bptvlive/tv2live.m3u8
 #EXTINF:-1  group-title="KÊNH ĐỊA PHƯƠNG" tvg-logo="https://static.wikia.nocookie.net/logopedia/images/0/07/ANT_BPTV3.png/revision/latest?cb=20200117064304", Bình Phước 3 - ANT $
-https://media.publit.io/file/h_720/Videokhoakenh/InShot_20210201_140613488.mp4
+https://media.publit.io/file/h_720/Videokhoakenh/kenhbikhoakdtv.mp4
 #EXTINF:-1  group-title="KÊNH ĐỊA PHƯƠNG" tvg-logo="https://i.ibb.co/j8y7WG3/PHIMHAY.png", PHIM HAY $
-https://media.publit.io/file/h_720/Videokhoakenh/InShot_20210201_140613488.mp4
+https://media.publit.io/file/h_720/Videokhoakenh/kenhbikhoakdtv.mp4
 #EXTINF:-1 tvg-id="TH DA NANG "group-title="KÊNH ĐỊA PHƯƠNG" tvg-logo="http://www.drt.danang.vn/images/drt1.png",Đà Nẵng 1
 http://drtdnglive.e49a7c38.cdnviet.com/livedrt1/chunklist.m3u8
 #EXTINF:-1 group-title="KÊNH ĐỊA PHƯƠNG" tvg-logo="http://www.drt.danang.vn/images/drt2.png",Đà Nẵng 2
