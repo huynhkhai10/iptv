@@ -163,7 +163,7 @@ http://quocthai.duckdns.org:18886/rtp/232.84.2.143:10678
 #EXTINF:0 group-title="QUỐC TẾ" tvg-logo="https://static.wikia.nocookie.net/disney/images/8/83/Disney_Junior_Logo.png/revision/latest?cb=20180904084738" , Disney Junior
 http://quocthai.duckdns.org:18886/rtp/232.84.1.90:10398
 #EXTINF:0 group-title="QUỐC TẾ" tvg-logo="https://thelink.harding.edu/the-bison/wp-content/uploads/sites/8/Artboard-1-4.png" , Disney+ $
-https://media.publit.io/file/h_720/Videokhoakenh/InShot_20210201_140613488.mp4
+https://media.publit.io/file/h_720/Videokhoakenh/kenhbikhoakdtv.mp4
 #EXTINF:0 group-title="QUỐC TẾ" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/2/2b/Animax_logo.svg/1200px-Animax_logo.svg.png" , Animax
 https://livecdn.fptplay.net/hda3/animaxport_2000.stream/chunklist_b250000.m3u8
 #EXTINF:0 group-title="QUỐC TẾ" tvg-logo="https://i.pinimg.com/originals/ad/2e/57/ad2e57aa2d71eee1f79fb1b8fcb932da.png" , BBC Earth
@@ -186,7 +186,7 @@ https://livecdn.fptplay.net/sdc/quocphongvnhd_2000.stream/chunklist.m3u8?token=e
 https://video.nhandan.thienvietjsc.net/live/nhandan720/chunklist_w1915921234.m3u8
 #EXTINF:-1 tvg-id="TH THANH HOA" group-title="TIN TỨC - CHÍNH TRỊ" tvg-logo="https://i.imgur.com/ziUs8oD.png" ,VNews HD
 http://36.37.252.114:888/Apple/OneTV-110/playlist.m3u8
-#EXTINF:0 tvg-id="VOVTV"group-title="TIN TỨC - CHÍNH TRỊ" tvg-logo="https://encrypted-tbn0.gstatic.com/images?q=tbn%3AANd9GcQhD5JSMY-yA_zL3BO6Sox8kRF25ghdjbAS7Y_66UGIA26Gbysn",Vietnam Journey HD
+#EXTINF:0 tvg-id="VOVTV"group-title="TIN TỨC - CHÍNH TRỊ" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/d/dd/Logo_VOV.svg/1200px-Logo_VOV.svg.png",VOV TV
 http://cdn.vovtv.mediatech.vn/vovlive/tv1live.m3u8
 
 
