@@ -448,6 +448,15 @@ https://livecdn.fptplay.net/sda/quangngai_2000.stream/chunklist.m3u8?token=eyJzZ
 #EXTINF:0 group-title="KÊNH ĐỊA PHƯƠNG" tvg-logo="https://lh3.googleusercontent.com/proxy/NMuvHOzjLK2cHmROQAuxIxfZKtvJL3ornhk_bZ8P_souw0vTUk-opdsaP6Dz3eR3gzvX8TYzwgTomRpVJgw2mijDNZKIGat6PqgcIVXxyls64kn6LSPGTd-bwDtP_YmNvxssx7VzftorzIR5dhxD6ehQIanazvPIHhPcfIp_N_D7U7h5SF7-t2ax8fGLfnwbM_qugjk4TSC4cCoJd_aJd4c9wv7ZohwsN8UkQtGxIkk",Ninh Thuận HD
 https://livecdn.fptplay.net/sda/ninhthuan_2000.stream/chunklist.m3u8?token=eyJzZXJ2ZXJfdGltZSI6IDE2MTI2NzEwOTcsICJyZXNvdXJjZV9pZCI6ICJoYXVnaWFuZ18yMDAwIiwgInBhcnRuZXJfaWQiOiAiNTcxM2JlOGMwN2U0MmVkNGI5MTYzODhlIiwgInRva2VuIjogImYwMjY0MzBmZDQ5ZGM2MjQ1NDAxMDhiYjk3YTg2MTA5IiwgInZhbGlkX21pbnV0ZXMiOiAxNjEyNzU3NDk3LCAicm1pcCI6ICIxMjUuMjM1LjIzNy42In0=&user_id=4748331 
 
+#EXTINF:0 tvg-id="K+1" group-title="K+" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/9/9f/K%2B1.png",K+1
+http://k1-streamkdtv2000-user_id-4748331
+#EXTINF:0 tvg-id="K+PM" group-title="K+" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/6/6c/K%2BPM.png",K+PM
+http://kpm-streamkdtv2000-user_id-4748331
+#EXTINF:0 tvg-id="K+NS" group-title="K+" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/5/58/K%2BNS.png",K+NS
+http://kns-streamkdtv2000-user_id-4748331
+#EXTINF:0 tvg-id="K+PC" group-title="K+" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/9/92/K%2BPC.png",K+PC
+http://kpc-streamkdtv2000-user_id-4748331
+
 #EXTINF:0 tvg-id="sbs" group-title="HÀN QUỐC" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/c/c0/Seoul_Broadcasting_System_logo.svg/1280px-Seoul_Broadcasting_System_logo.svg.png",SBS
 https://streaming-a-802.cdn.nextologies.com/SBS_Live_HD/live/SBS_Live_HD_1500k/chunks.m3u8
 #EXTINF:-1 group-title="HÀN QUỐC" tvg-logo="https://vignette.wikia.nocookie.net/logopedia/images/5/56/SBS_Plus_logo.png/revision/latest?cb=20180125005022", SBS PLUS 
@@ -458,6 +467,7 @@ https://streaming-a-802.cdn.nextologies.com/SBS_18/live/SBS_18_1500k/chunks.m3u8
 http://175.113.171.62:9000/stream/channelid/2006346875
 #EXTINF:-1 group-title="HÀN QUỐC" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/1/12/Kbs1.png",KBS1
 http://219.250.105.94:9981/stream/channelid/1509439095
+
 
 EXTINF:-1  group-title="NHẬT BẢN" tvg-logo="https://queensofthering.com/wp-content/uploads/imgs/f/1/f111a2f2.jpg",NHK BS1
 http://220.158.149.28:8180/live/TV00000000000000000075@HHZT
