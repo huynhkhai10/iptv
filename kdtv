@@ -244,9 +244,9 @@ http://gg.gg/btv52000-user_id-4748331
 http://gg.gg/sctvphimtonghop2000-user_id-4748331
 
 #EXTINF:-1 tvg-id="HBO" group-title="HBO Preventive" tvg-logo="https://imgur.com/tLRt17t.png", Red By HBO - Asia
-https://liveorigin01.hbogoasia.com:8443/origin/live/main/MAX/3.m3u8
-#EXTINF:-1 tvg-id="HBO" group-title="HBO Preventive" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/f/f0/611-cinemax.png/250px-611-cinemax.png", Cinemax
 https://liveorigin01.hbogoasia.com:8443/origin/live/main/RED/3.m3u8
+#EXTINF:-1 tvg-id="HBO" group-title="HBO Preventive" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/f/f0/611-cinemax.png/250px-611-cinemax.png", Cinemax
+https://liveorigin01.hbogoasia.com:8443/origin/live/main/MAX/3.m3u8
 #EXTINF:-1 tvg-id="HBO" group-title="HBO Preventive" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/d/de/HBO_logo.svg/1024px-HBO_logo.svg.png", HBO
 https://liveorigin01.hbogoasia.com:8443/origin/live/main/HBO/3.m3u8
 
