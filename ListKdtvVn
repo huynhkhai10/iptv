@@ -70,7 +70,7 @@ http://gg.gg/vtvcab42000-user_id-4748331
 http://gg.gg/vtvcab52000-user_id-4748331
 #EXTINF:0 tvg-id="vtvcab6_haytv"group-title="VTVCab" tvg-logo="https://imgstatic.vtvcab.vn/logos/HAY_TV_M.png",VTVCab6 - HayTV
 http://gg.gg/vtvcab62000-user_id-4748331
-#EXTINF:0 tvg-id="vtvcab7"group-title="VTVCab" tvg-logo="https://static.wikia.nocookie.net/logos/images/c/c3/DDramas_VTVCab7.png/revision/latest/scale-to-width-down/340?cb=20201011143615&path-prefix=vi",VTVCab7
+#EXTINF:0 tvg-id="vtvcab7"group-title="VTVCab" tvg-logo="https://static.wikia.nocookie.net/logopedia/images/f/f9/VCTV10_old_and_VTVCab_10_-_O2TV_logo.png/revision/latest/scale-to-width-down/340?cb=20191114115325",VTVCab7
 http://gg.gg/vtvcab72000-user_id-4748331
 #EXTINF:0 tvg-id="vtvcab8_bibi"group-title="VTVCab" tvg-logo="https://imgstatic.vtvcab.vn/logos/BIBI_M.png",VTVCab 8 - BIBI
 http://gg.gg/vtvcab82000-user_id-4748331
@@ -238,8 +238,8 @@ http://gg.gg/sctv72000-user_id-4748331
 #EXTINF:0 tvg-id="" group-title="SCTV" tvg-logo="https://rsstv.gviet.vn/sctv/157/595/1565944640025.png", SCTV8 HD - VITV
 http://gg.gg/sctv82000-user_id-4748331
 #EXTINF:0 tvg-id="SCTV9" group-title="SCTV" tvg-logo="https://rsstv.gviet.vn/sctv/157/595/1565944648887.png", SCTV9 - Phim TVB
-http://gg.gg/stv92000-user_id-4748331
-#EXTINF:0 tvg-id="SCTV10" group-title="SCTV" tvg-logo="https://tvz.101vn.com/images/sctv10.png", SCTV10 - VTVHyundai
+http://gg.gg/sctv92000-user_id-4748331
+#EXTINF:0 tvg-id="SCTV10" group-title="SCTV" tvg-logo="https://lh3.googleusercontent.com/proxy/xHp-oxxLToVXfuZahzt3DW2XsOcK2cnTkNP6nQPkQFcU5pdnr0WhqcHTw_ScP1_aRhvqQR4GXBJVG_tLFWLKODwTKfvFKqDTy09-", SCTV10 - VTVHyundai
 http://gg.gg/sctv102000-user_id-4748331
 #EXTINF:0 tvg-id="SCTV11 - TV STAR" group-title="SCTV" tvg-logo="https://rsstv.gviet.vn/sctv/157/595/1565944657099.png", SCTV11 HD - TV STAR
 http://gg.gg/sctv112000-user_id-4748331
