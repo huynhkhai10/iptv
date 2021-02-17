@@ -180,7 +180,32 @@ http://htv-drm-live-cdn.fptplay.net/CDN-FPT02/NATGEOWILD-HD-1080p/playlist.m3u8
 https://liveorigin01.hbogoasia.com:8443/origin/live/main/FAMILY/index.m3u8
 #EXTINF:0 group-title="QUỐC TẾ" tvg-logo="https://upload.wikimedia.org/wikipedia/en/f/fc/HBOHits-ASIA.png" , HBO Hits
 https://liveorigin01.hbogoasia.com:8443/origin/live/main/HITS/index.m3u8
-
+#EXTINF:0 group-title="QUỐC TẾ" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/b/b1/CNN.svg/900px-CNN.svg.png" , CNN
+http://quocthai.duckdns.org:18886/rtp/232.84.3.153:10690
+#EXTINF:0 group-title="QUỐC TẾ" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/1/1b/KBS_World_%282009%29.svg/1280px-KBS_World_%282009%29.svg.png" , KBS World
+http://quocthai.duckdns.org:18886/rtp/232.84.2.136:9612
+#EXTINF:0 group-title="QUỐC TẾ" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/6/64/Arirang_logo.png", Arirang
+http://quocthai.duckdns.org:18886/rtp/232.84.1.43:8238
+#EXTINF:0 group-title="QUỐC TẾ" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/7/7b/NHK_World.svg/1200px-NHK_World.svg.png" group-title="QUỐC TẾ - QNET",NHK WORLD JAPAN
+http://quocthai.duckdns.org:18886/rtp/232.84.1.72:8406
+#EXTINF:0 group-title="QUỐC TẾ" tvg-logo="https://upload.wikimedia.org/wikipedia/it/9/9d/Bbc_world_news_logo_hd.png" , BBC World News
+http://quocthai.duckdns.org:18886/rtp/232.84.2.239:10452
+#EXTINF:0 group-title="QUỐC TẾ" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/5/56/Bloomberg_logo.svg/1280px-Bloomberg_logo.svg.png" , Bloomberg
+http://quocthai.duckdns.org:18886/rtp/232.84.3.157:10696
+#EXTINF:0 group-title="QUỐC TẾ" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/7/75/Deutsche_Welle_symbol_2012.svg/1200px-Deutsche_Welle_symbol_2012.svg.png" , DW TV
+http://quocthai.duckdns.org:18886/rtp/232.84.2.233:10416
+#EXTINF:0 group-title="QUỐC TẾ" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/3/3d/TV5Monde_Logo.svg/1280px-TV5Monde_Logo.svg.png" , TV5 Monde
+http://quocthai.duckdns.org:18886/rtp/232.84.1.45:8250
+#EXTINF:0 group-title="QUỐC TẾ" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/a/a0/Russia-today-logo.svg/768px-Russia-today-logo.svg.png", RT
+http://quocthai.duckdns.org:18886/rtp/232.84.2.125:8538
+#EXTINF:0 group-title="QUỐC TẾ" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/7/76/MTV_Logo.svg/1280px-MTV_Logo.svg.png" , MTV
+http://quocthai.duckdns.org:18886/rtp/232.84.2.171:10834
+#EXTINF:0 group-title="QUỐC TẾ" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/9/9f/New_NatGeo_People_logo.svg/1200px-New_NatGeo_People_logo.svg.png" , Nat Geo People
+http://quocthai.duckdns.org:18886/rtp/232.84.1.76:8430
+#EXTINF:0 group-title="QUỐC TẾ" tvg-logo="https://upload.wikimedia.org/wikipedia/en/thumb/5/57/ABC_Australia_logo.svg/1200px-ABC_Australia_logo.svg.png" , ABC Australia
+http://quocthai.duckdns.org:18886/rtp/232.84.2.244:10482
+#EXTINF:0 group-title="QUỐC TẾ" tvg-logo="https://static.wikia.nocookie.net/tvpedia/images/a/ae/%D0%9F%D0%B5%D1%80%D0%B2%D1%8B%D0%B9_%D0%BA%D0%B0%D0%BD%D0%B0%D0%BB_%282001-%D0%BD%D0%B0%D1%81%D1%82%D0%BE%D1%8F%D1%89%D0%B5%D0%B5_%D0%B2%D1%80%D0%B5%D0%BC%D1%8F%2C_%D0%BF%D1%80%D0%BE%D0%B7%D1%80%D0%B0%D1%87%D0%BD%D1%8B%D0%B9%29.png/revision/latest/top-crop/width/150/height/150?cb=20131018030805&path-prefix=ru" , OPT 1
+http://quocthai.duckdns.org:18886/rtp/232.84.2.128:8352
 
 #EXTINF:0 tvg-id="ANTV"group-title="TIN TỨC - CHÍNH TRỊ" tvg-logo="https://i.imgur.com/kzKZm1L.png", ANTV HD
 http://antvlive.ab5c6921.cdnviet.com/antv/chunklist.m3u8
@@ -459,6 +484,8 @@ http://gg.gg/kns-streamkdtv2000-user_id-4748331
 #EXTINF:0 tvg-id="K+PC" group-title="K+" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/9/92/K%2BPC.png",K+PC
 http://gg.gg/kpc-streamkdtv2000-user_id-4748331
 
+
+
 #EXTINF:0 tvg-id="sbs" group-title="HÀN QUỐC" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/c/c0/Seoul_Broadcasting_System_logo.svg/1280px-Seoul_Broadcasting_System_logo.svg.png",SBS
 https://streaming-a-802.cdn.nextologies.com/SBS_Live_HD/live/SBS_Live_HD_1500k/chunks.m3u8
 #EXTINF:-1 group-title="HÀN QUỐC" tvg-logo="https://vignette.wikia.nocookie.net/logopedia/images/5/56/SBS_Plus_logo.png/revision/latest?cb=20180125005022", SBS PLUS 
@@ -470,6 +497,18 @@ http://175.113.171.62:9000/stream/channelid/2006346875
 #EXTINF:-1 group-title="HÀN QUỐC" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/1/12/Kbs1.png",KBS1
 http://219.250.105.94:9981/stream/channelid/1509439095
 
+#EXTINF:-1 tvg-id="" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/d/de/HBO_logo.svg/1024px-HBO_logo.svg.png" group-title="QUỐC TẾ - UK",HBO UK
+http://136.243.177.164/HBO/playlist.m3u8
+#EXTINF:-1 tvg-id="" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/5/5f/HBO_Films_Logo.svg/1280px-HBO_Films_Logo.svg.png" group-title="QUỐC TẾ - UK",Film A HBO
+http://92.43.140.200/s64/04.m3u8
+#EXTINF:-1 tvg-id="" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/9/9e/HBO_2_Logo_Poland.png" group-title="QUỐC TẾ - UK",HBO 2
+http://bos.00387.info:8080/HBO2/index.m3u8?token=test
+#EXTINF:-1 tvg-id="" tvg-logo="https://static.wikia.nocookie.net/tvfanon6528/images/a/a4/HBO_3_%282016-.n.v.%29.png/revision/latest?cb=20171126141450" group-title="QUỐC TẾ - UK",HBO 3
+http://bos.00387.info:8080/HBO3/index.m3u8?token=test
+#EXTINF:-1 tvg-id="" tvg-logo="https://www.hdservis.sk/wp-content/uploads/2016/08/cinemaxHD_black-1.png" group-title="QUỐC TẾ - UK",Cinemax 1
+http://bos.00387.info:8080/Cinemax1/index.m3u8?token=test
+#EXTINF:-1 tvg-id="" tvg-logo="https://www.hdservis.sk/wp-content/uploads/2016/08/cinemax2HD_black-1.png" group-title="QUỐC TẾ - UK",Cinemax 2
+http://bos.00387.info:8080/Cinemax2/index.m3u8?token=test
 
 EXTINF:-1  group-title="NHẬT BẢN" tvg-logo="https://queensofthering.com/wp-content/uploads/imgs/f/1/f111a2f2.jpg",NHK BS1
 http://220.158.149.28:8180/live/TV00000000000000000075@HHZT
