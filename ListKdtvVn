@@ -101,6 +101,8 @@ http://gg.gg/vtvcab232000-user_id-4748331
 
 #EXTINF:-1 tvg-id="HiTV" group-title="HanoiCab" tvg-logo="https://namhuongcorp.com.vn/wp-content/uploads/2018/08/logo-hitv.png", HiTV - HanoiCab 1
 http://quocthai.duckdns.org:18886/rtp/232.84.1.55:8310
+#EXTINF:-1 tvg-id="YouTV" group-title="HanoiCab" tvg-logo="https://lh3.googleusercontent.com/proxy/W1t-0fSbqLMDvT-rdd0Ut44rP8mJRJcmCBN03Q7mGSBoSnq_c0K8UU1SkBobHwZfBTwDQDF-cJrirYEAcnfydTyCrg", YouTV - HanoiCab 2
+http://nex.xemtiviviet.com/next.php?id=50&token=(*)j(Tw(*)jo4(*)9}[g6NjNhNTo5Z9}hhOjc1ZGB-6OGB-0NzphOTP)kOmNlZ9}g=&st=(*)9}B-v(*)j(Tv(*)j[gy(*)S[gwNzo0(*)[g
 
 #EXTINF:0 tvg-id="redbyhbohd" group-title="QUỐC TẾ" tvg-name="Red By HBO HD" tvg-logo="https://imgur.com/tLRt17t.png" ,Red By HBO HD
 http://gg.gg/redbyhbo2000-user-id-4748331
