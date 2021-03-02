@@ -124,8 +124,8 @@ https://media.publit.io/file/h_720/Videokhoakenh/kenhbikhoakdtv.mp4
 http://gg.gg/disneychannel2000-user_id-4748331
 #EXTINF:0 group-title="QUỐC TẾ" tvg-logo="https://static.wikia.nocookie.net/disney/images/8/83/Disney_Junior_Logo.png/revision/latest?cb=20180904084738" , Disney Junior
 http://gg.gg/disneyjunior2000-user_id-4748331
-#EXTINF:0 group-title="QUỐC TẾ" tvg-logo="https://thelink.harding.edu/the-bison/wp-content/uploads/sites/8/Artboard-1-4.png" , Disney+ $
-https://media.publit.io/file/h_720/Videokhoakenh/kenhbikhoakdtv.mp4
+#EXTINF:0 group-title="QUỐC TẾ" tvg-logo="https://thelink.harding.edu/the-bison/wp-content/uploads/sites/8/Artboard-1-4.png" , Disney+
+https://media.publit.io/file/h_1080/loikenh.mp4
 #EXTINF:0 group-title="QUỐC TẾ" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/2/2b/Animax_logo.svg/1200px-Animax_logo.svg.png" , Animax
 https://livecdn.fptplay.net/hda3/animaxport_2000.stream/chunklist_b250000.m3u8
 #EXTINF:0 group-title="QUỐC TẾ" tvg-logo="https://i.pinimg.com/originals/ad/2e/57/ad2e57aa2d71eee1f79fb1b8fcb932da.png" , BBC Earth
@@ -133,9 +133,9 @@ http://livecdn.fptplay.net/qnetlive/bbcearth_hls.smil/chunklist_b2500000.m3u8
 #EXTINF:0 group-title="QUỐC TẾ" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/2/26/Logo_Nat_Geo_Wild.svg/1200px-Logo_Nat_Geo_Wild.svg.png" , National Geographic WILD
 http://htv-drm-live-cdn.fptplay.net/CDN-FPT02/NATGEOWILD-HD-1080p/playlist.m3u8
 #EXTINF:0 group-title="QUỐC TẾ" tvg-logo="https://upload.wikimedia.org/wikipedia/en/thumb/d/d2/HBO_Family_Asia_logo.svg/1200px-HBO_Family_Asia_logo.svg.png" , HBO Family
-https://liveorigin01.hbogoasia.com:8443/origin/live/main/FAMILY/index.m3u8
+https://raw.githubusercontent.com/Semangat-Pagi/TEST/master/HBOFAMNew.m3u8
 #EXTINF:0 group-title="QUỐC TẾ" tvg-logo="https://upload.wikimedia.org/wikipedia/en/f/fc/HBOHits-ASIA.png" , HBO Hits
-https://liveorigin01.hbogoasia.com:8443/origin/live/main/HITS/index.m3u8
+https://raw.githubusercontent.com/Semangat-Pagi/TEST/master/HBOHITSNew.m3u8
 #EXTINF:0 group-title="QUỐC TẾ" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/a/af/HBO_Signature_Asia.png" , HBO Signature
 https://raw.githubusercontent.com/Semangat-Pagi/TEST/master/HBOSIGNew.m3u8
 #EXTINF:0 group-title="QUỐC TẾ" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/b/b1/CNN.svg/900px-CNN.svg.png" , CNN
@@ -206,10 +206,10 @@ https://livecdn.fptplay.net/sdc/hanoitv2_2000.stream/playlist.m3u8?token=eyJzZXJ
 https://livecdn.fptplay.net/sdc/binhphuoc1_2000.stream/playlist.m3u8?token=eyJzZXJ2ZXJfdGltZSI6IDE2MTI2NTI2OTUsICJyZXNvdXJjZV9pZCI6ICJiaW5ocGh1b2MxXzIwMDAiLCAicGFydG5lcl9pZCI6ICI1NzEzYmU4YzA3ZTQyZWQ0YjkxNjM4OGUiLCAidG9rZW4iOiAiMTZjM2VhYzQ5NWFmNzIxNTdlZGY0NDIzYTA0ZTRmOTgiLCAidmFsaWRfbWludXRlcyI6IDE2MTI3MzkwOTUsICJybWlwIjogIjEyNS4yMzUuMjM3LjYifQ==&user_id=4748331
 #EXTINF:0 group-title="KÊNH ĐỊA PHƯƠNG" tvg-logo="https://static.wikia.nocookie.net/logos/images/d/d5/BPTV2_Home_TV.png/revision/latest/scale-to-width-down/340?cb=20200828114705&path-prefix=vi", Bình Phước 2 - HOME TV
 https://livecdn.fptplay.net/sdc/binhphuoc2_2000.stream/playlist.m3u8?token=eyJzZXJ2ZXJfdGltZSI6IDE2MTI2NTI3NTEsICJyZXNvdXJjZV9pZCI6ICJiaW5ocGh1b2MyXzIwMDAiLCAicGFydG5lcl9pZCI6ICI1NzEzYmU4YzA3ZTQyZWQ0YjkxNjM4OGUiLCAidG9rZW4iOiAiZDdlOGQ3YjNiMDBhMTYwMDc2ZTY1MDJhOWFlNTBhYTkiLCAidmFsaWRfbWludXRlcyI6IDE2MTI3MzkxNTEsICJybWlwIjogIjEyNS4yMzUuMjM3LjYifQ==&user_id=4748331
-#EXTINF:-1  group-title="KÊNH ĐỊA PHƯƠNG" tvg-logo="https://static.wikia.nocookie.net/logopedia/images/0/07/ANT_BPTV3.png/revision/latest?cb=20200117064304", Bình Phước 3 - ANT $
-https://media.publit.io/file/h_720/Videokhoakenh/kenhbikhoakdtv.mp4
-#EXTINF:-1  group-title="KÊNH ĐỊA PHƯƠNG" tvg-logo="https://i.ibb.co/j8y7WG3/PHIMHAY.png", PHIM HAY $
-https://media.publit.io/file/h_720/Videokhoakenh/kenhbikhoakdtv.mp4
+#EXTINF:-1  group-title="KÊNH ĐỊA PHƯƠNG" tvg-logo="https://static.wikia.nocookie.net/logopedia/images/0/07/ANT_BPTV3.png/revision/latest?cb=20200117064304", Bình Phước 3 - ANT
+https://media.publit.io/file/h_1080/loikenh.mp4
+#EXTINF:-1  group-title="KÊNH ĐỊA PHƯƠNG" tvg-logo="https://i.ibb.co/j8y7WG3/PHIMHAY.png", PHIM HAY
+https://media.publit.io/file/h_1080/loikenh.mp4
 #EXTINF:-1 tvg-id="TH DA NANG "group-title="KÊNH ĐỊA PHƯƠNG" tvg-logo="http://www.drt.danang.vn/images/drt1.png",Đà Nẵng 1
 https://livecdn.fptplay.net/sdc/danang1_2000.stream/playlist.m3u8?token=eyJzZXJ2ZXJfdGltZSI6IDE2MTI2NTM5NjUsICJyZXNvdXJjZV9pZCI6ICJkYW5hbmcxXzIwMDAiLCAicGFydG5lcl9pZCI6ICI1NzEzYmU4YzA3ZTQyZWQ0YjkxNjM4OGUiLCAidG9rZW4iOiAiNzEzY2MxMzRlN2M0ZTIzMWFhNWFlODAzNTUzYTY2YmQiLCAidmFsaWRfbWludXRlcyI6IDE2MTI3NDAzNjUsICJybWlwIjogIjEyNS4yMzUuMjM3LjYifQ==&user_id=4748331
 #EXTINF:-1 group-title="KÊNH ĐỊA PHƯƠNG" tvg-logo="http://www.drt.danang.vn/images/drt2.png",Đà Nẵng 2
@@ -313,7 +313,7 @@ http://203.171.21.216:1935/live/smil:DNTV1.smil/chunklist_w1370026847_b600000.m3
 #EXTINF:0 group-title="KÊNH ĐỊA PHƯƠNG" tvg-logo="https://rsstv.gviet.vn/sctv/157/595/1565944948488.png", Đồng Nai 2
 https://livecdn.fptplay.net/sda/dongnai2_2000.stream/chunklist.m3u8?token=eyJzZXJ2ZXJfdGltZSI6IDE1ODQ3MDc0MDQsICJyZXNvdXJjZV9pZCI6ICJkb25nbmFpMl8yMDAwIiwgInBhcnRuZXJfaWQiOiAiNTcxM2JlOGMwN2U0MmVkNGI5MTYzODhlIiwgInRva2VuIjogIjgwYmJiMDZkMzQ4ODczNGFjZTAyNjFjZjc4OTYyMmYzIiwgInZhbGlkX21pbnV0ZXMiOiAxNTg0NzkzODA0LCAicm1pcCI6ICIxMDAuMTIwLjAuMTA3In0=
 #EXTINF:0 group-title="KÊNH ĐỊA PHƯƠNG" tvg-logo="https://htvc.vn/uploads/cache/thumbnail/2020-06-24/3387237-dong-nai-3.png", Đồng Nai 3
-https://sgn-vtt-001-livecdn-vthcm-vnd.vieon.vn/18586364f4faec54fda8248a902ee9c2/1614471424556/htv_drm/live/dong_nai_3/playlist.m3u8
+https://live-vthcm.vieon.vn/htv_drm/live/dong_nai_3/TV_HD/dong_nai_3_480p/chunks.m3u8
 #EXTINF:0 tvg-id="" group-title="KÊNH ĐỊA PHƯƠNG" tvg-logo="http://tvzz.101vn.com/images/thgl.png", Gia Lai
 http://113.161.25.3:8134/hls/gialaitv/gialaitv.m3u8
 #EXTINF:0 group-title="KÊNH ĐỊA PHƯƠNG" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/1/18/Logo_TTV11_2018.png", Tây Ninh
