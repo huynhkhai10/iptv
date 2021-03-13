@@ -298,7 +298,7 @@ https://nbtv.vncdn.vn/nbtvlive/tv1live.m3u8
 http://687642383.r.vietnamcdn.net/687642383/_definst_/mystream/playlist.m3u8
 #EXTINF:0 group-title="KÊNH ĐỊA PHƯƠNG" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/c/c7/Logo_NTV_Ngh%E1%BB%87_An_2017.png", Nghệ An
 https://live.truyenhinhnghean.vn/hls/na1/index.m3u8
-#EXTINF:0 group-title="KÊNH ĐỊA PHƯƠNG" tvg-logo="https://img.hplus.com.vn/728x409/banner/2019/07/17/966497-thp.png", Hà Tĩnh
+#EXTINF:0 group-title="KÊNH ĐỊA PHƯƠNG" tvg-logo="https://img.hplus.com.vn/460x260/poster/2018/06/04/843599-hatinh.png", Hà Tĩnh
 http://hatinhtv.vn:82/hls/httv.m3u8
 #EXTINF:-1 tvg-id=" "group-title="KÊNH ĐỊA PHƯƠNG" tvg-logo="https://static.wikia.nocookie.net/logopedia/images/7/7b/QRT_Quang_Nam.png/revision/latest/scale-to-width-down/340?cb=20200214014557",Quảng Nam
 http://113.161.6.157:8081/hls-live/livepkgr/_definst_/liveevent/livestream.m3u8
@@ -338,7 +338,7 @@ https://livecdn.fptplay.net/sda/haugiang_2000.stream/playlist.m3u8?token=eyJzZXJ
 https://livecdn.fptplay.net/sdc/bariavungtau_2000.stream/chunklist.m3u8?token=eyJzZXJ2ZXJfdGltZSI6IDE2MTI2NzEwOTcsICJyZXNvdXJjZV9pZCI6ICJoYXVnaWFuZ18yMDAwIiwgInBhcnRuZXJfaWQiOiAiNTcxM2JlOGMwN2U0MmVkNGI5MTYzODhlIiwgInRva2VuIjogImYwMjY0MzBmZDQ5ZGM2MjQ1NDAxMDhiYjk3YTg2MTA5IiwgInZhbGlkX21pbnV0ZXMiOiAxNjEyNzU3NDk3LCAicm1pcCI6ICIxMjUuMjM1LjIzNy42In0=&user_id=4748331
 #EXTINF:0 group-title="KÊNH ĐỊA PHƯƠNG" tvg-logo="https://mytv.com.vn/upload/channel/841.png",Trà Vinh HD
 https://livecdn.fptplay.net/sdc/travinh_1000.stream/chunklist.m3u8?token=eyJzZXJ2ZXJfdGltZSI6IDE2MTI2NzEwOTcsICJyZXNvdXJjZV9pZCI6ICJoYXVnaWFuZ18yMDAwIiwgInBhcnRuZXJfaWQiOiAiNTcxM2JlOGMwN2U0MmVkNGI5MTYzODhlIiwgInRva2VuIjogImYwMjY0MzBmZDQ5ZGM2MjQ1NDAxMDhiYjk3YTg2MTA5IiwgInZhbGlkX21pbnV0ZXMiOiAxNjEyNzU3NDk3LCAicm1pcCI6ICIxMjUuMjM1LjIzNy42In0=&user_id=4748331
-#EXTINF:0 group-title="KÊNH ĐỊA PHƯƠNG" tvg-logo="http://thbl.vn/btv.png",Bạc Liêu HD
+#EXTINF:0 group-title="KÊNH ĐỊA PHƯƠNG" tvg-logo="https://upload.wikimedia.org/wikipedia/vi/8/85/Logo_%C4%90%C3%A0i_PT-TH_B%E1%BA%A1c_Li%C3%AAu.png",Bạc Liêu HD
 https://livecdn.fptplay.net/sdc/baclieu_2000.stream/chunklist.m3u8?token=eyJzZXJ2ZXJfdGltZSI6IDE2MTI2NzEwOTcsICJyZXNvdXJjZV9pZCI6ICJoYXVnaWFuZ18yMDAwIiwgInBhcnRuZXJfaWQiOiAiNTcxM2JlOGMwN2U0MmVkNGI5MTYzODhlIiwgInRva2VuIjogImYwMjY0MzBmZDQ5ZGM2MjQ1NDAxMDhiYjk3YTg2MTA5IiwgInZhbGlkX21pbnV0ZXMiOiAxNjEyNzU3NDk3LCAicm1pcCI6ICIxMjUuMjM1LjIzNy42In0=&user_id=4748331
 #EXTINF:0 group-title="KÊNH ĐỊA PHƯƠNG" tvg-logo="https://static.wikia.nocookie.net/logos/images/8/89/CTV_Ca_Mau.png/revision/latest/scale-to-width-down/340?cb=20201025094120&path-prefix=vi",Cà Mau DB
 https://livecdn.fptplay.net/sdc/camau_2000.stream/chunklist.m3u8?token=eyJzZXJ2ZXJfdGltZSI6IDE2MTI2NzEwOTcsICJyZXNvdXJjZV9pZCI6ICJoYXVnaWFuZ18yMDAwIiwgInBhcnRuZXJfaWQiOiAiNTcxM2JlOGMwN2U0MmVkNGI5MTYzODhlIiwgInRva2VuIjogImYwMjY0MzBmZDQ5ZGM2MjQ1NDAxMDhiYjk3YTg2MTA5IiwgInZhbGlkX21pbnV0ZXMiOiAxNjEyNzU3NDk3LCAicm1pcCI6ICIxMjUuMjM1LjIzNy42In0=&user_id=4748331
