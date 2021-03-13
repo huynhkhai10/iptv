@@ -308,9 +308,9 @@ http://202.43.109.142:1935/thbttv/bttv/chunklist.m3u8
 http://tv.kontumtv.vn/live/kontumtv/kontumtv.m3u8
 #EXTINF:0 group-title="KÊNH ĐỊA PHƯƠNG" tvg-logo="https://img.hplus.com.vn/460x260/poster/2018/06/05/969202-Lamdong.png", Lâm Đồng
 https://livecdn.fptplay.net/sdc/lamdong_2000.stream/playlist.m3u8?token=eyJzZXJ2ZXJfdGltZSI6IDE2MTI2NTQzMzQsICJyZXNvdXJjZV9pZCI6ICJsYW1kb25nXzIwMDAiLCAicGFydG5lcl9pZCI6ICI1NzEzYmU4YzA3ZTQyZWQ0YjkxNjM4OGUiLCAidG9rZW4iOiAiODVkM2E1ZDk4NWM4OTE0ODUxNGQ1ZDJhMzVlM2Q1OGQiLCAidmFsaWRfbWludXRlcyI6IDE2MTI3NDA3MzQsICJybWlwIjogIjEyNS4yMzUuMjM3LjYifQ==&user_id=4748331
-#EXTINF:0 group-title="KÊNH ĐỊA PHƯƠNG" tvg-logo="https://upload.wikimedia.org/wikipedia/vi/thumb/c/c5/%C4%90N-RTV.png/100px-%C4%90N-RTV.png", Đồng Nai 1
+#EXTINF:0 group-title="KÊNH ĐỊA PHƯƠNG" tvg-logo="http://truyenhinhso.vn/wp-content/uploads/2020/06/DOng-Nai-1.png", Đồng Nai 1
 http://203.171.21.216:1935/live/smil:DNTV1.smil/chunklist_w1370026847_b600000.m3u8
-#EXTINF:0 group-title="KÊNH ĐỊA PHƯƠNG" tvg-logo="https://rsstv.gviet.vn/sctv/157/595/1565944948488.png", Đồng Nai 2
+#EXTINF:0 group-title="KÊNH ĐỊA PHƯƠNG" tvg-logo="http://truyenhinhso.vn/wp-content/uploads/2020/06/Dong-Nai-2.png", Đồng Nai 2
 https://livecdn.fptplay.net/sda/dongnai2_2000.stream/chunklist.m3u8?token=eyJzZXJ2ZXJfdGltZSI6IDE1ODQ3MDc0MDQsICJyZXNvdXJjZV9pZCI6ICJkb25nbmFpMl8yMDAwIiwgInBhcnRuZXJfaWQiOiAiNTcxM2JlOGMwN2U0MmVkNGI5MTYzODhlIiwgInRva2VuIjogIjgwYmJiMDZkMzQ4ODczNGFjZTAyNjFjZjc4OTYyMmYzIiwgInZhbGlkX21pbnV0ZXMiOiAxNTg0NzkzODA0LCAicm1pcCI6ICIxMDAuMTIwLjAuMTA3In0=
 #EXTINF:0 group-title="KÊNH ĐỊA PHƯƠNG" tvg-logo="https://htvc.vn/uploads/cache/thumbnail/2020-06-24/3387237-dong-nai-3.png", Đồng Nai 3
 https://live-vthcm.vieon.vn/htv_drm/live/dong_nai_3/TV_HD/dong_nai_3_480p/chunks.m3u8
