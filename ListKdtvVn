@@ -274,9 +274,9 @@ https://live.tuyenquangtv.vn/hls/ttv.m3u8
 https://thainguyentv.vn/hls/livestream.m3u8
 #EXTINF:0 tvg-id="TH LANG SON" group-title="KÊNH ĐỊA PHƯƠNG" tvg-logo="https://i.ibb.co/sWrqVzp/Logo-LSTV-2020-removebg-preview.png", Lạng Sơn
 http://cdn.lstv.mediatech.vn/lstvlive/tv1live.m3u8
-#EXTINF:0 tvg-id="TH LANG SON" group-title="KÊNH ĐỊA PHƯƠNG" tvg-logo="https://cliptv.vn/themes/cliptv/img/list_channel/Kenh_dia_phuong/Qu%E1%BA%A3ng-Ninh-1.png", Quảng Ninh 1
+#EXTINF:0 tvg-id="TH LANG SON" group-title="KÊNH ĐỊA PHƯƠNG" tvg-logo="http://truyenhinhso.vn/wp-content/uploads/2020/06/Asset-5@4x.png", Quảng Ninh 1
 http://qtv.vncdn.vn/qtvlive/tv1live.m3u8
-#EXTINF:0 tvg-id="TH LANG SON" group-title="KÊNH ĐỊA PHƯƠNG" tvg-logo="https://lh3.googleusercontent.com/proxy/xN1twihR_nA4JRhVU0RphdFpEbBdYGFdZMxzfChZth3WYrKERNUy0mzTSClcmp_CHpV03TEjv8snZmjo_HbCvLVAlbp76EMf5Vu6CPG_Z_oy471viaEJQtLX3MPys4bSXRFOsulgrTiIRmjnQDOQj5mpuQhdCbMdmGk", Quảng Ninh 3
+#EXTINF:0 tvg-id="TH LANG SON" group-title="KÊNH ĐỊA PHƯƠNG" tvg-logo="http://truyenhinhso.vn/wp-content/uploads/2020/06/Asset-4@4x.png", Quảng Ninh 3
 http://qtv.vncdn.vn/qtvlive/tv3live.m3u8
 #EXTINF:0 group-title="KÊNH ĐỊA PHƯƠNG" tvg-logo="https://i.ibb.co/vxx5h3M/large-bacninh.png", Bắc Ninh
 http://203.171.21.203:1935/live/smil:BTV.smil/chunklist_w1989042543_b1384000.m3u8
