@@ -607,3 +607,14 @@ http://117.169.120.160:8080/live/cctv-5/1.m3u8
 
 #EXTINF:-1 tvg-id="" tvg-logo="https://pbs.twimg.com/profile_images/1014060574571786240/Gk87hUF8_400x400.jpg" group-title="THÁI LAN",Cartoon Club
 https://edge2-bkk.3bb.co.th:9443/CartoonClub_Livestream/cartoonclub_480P.stream/playlist.m3u8
+
+
+#EXTINF:-1 tvg-id="htv2hd" group-title="Thử Nghiệm" tvg-logo="http://htvc.vn/uploads/editor/images/Logo Kenh/logo_HTV2_422x278.png", HTV2 HD Max
+http://quangvinh997.duckdns.org:8889/udp/225.1.4.56:30120
+#EXTINF:-1 tvg-id="htv3" group-title="Thử Nghiệm" tvg-logo="http://htvc.vn/uploads/editor/images/Logo%20Kenh/logo_HTV3_422x278.png", HTV3 Max
+http://quangvinh997.duckdns.org:8889/udp/225.1.4.57:30120
+#EXTINF:-1 tvg-id="htv7hd" group-title="Thử Nghiệm" tvg-logo="https://imgstatic.vtvcab.vn/logos/H7_M.png", HTV7 HD Max
+http://quangvinh997.duckdns.org:8889/udp/225.1.1.192:30120
+#EXTINF:-1 tvg-id="htv9hd"tvg-logo="https://imgstatic.vtvcab.vn/logos/H9_M.png" group-title="Thử Nghiệm",HTV9 HD Max
+http://quangvinh997.duckdns.org:8889/udp/225.1.1.190:30120
+
