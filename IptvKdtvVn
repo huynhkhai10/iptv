@@ -613,8 +613,15 @@ https://edge2-bkk.3bb.co.th:9443/CartoonClub_Livestream/cartoonclub_480P.stream/
 http://quangvinh997.duckdns.org:8889/udp/225.1.4.56:30120
 #EXTINF:-1 tvg-id="htv3" group-title="Thử Nghiệm" tvg-logo="http://htvc.vn/uploads/editor/images/Logo%20Kenh/logo_HTV3_422x278.png", HTV3 Max
 http://quangvinh997.duckdns.org:8889/udp/225.1.4.57:30120
-#EXTINF:-1 tvg-id="htv7hd" group-title="Thử Nghiệm" tvg-logo="https://imgstatic.vtvcab.vn/logos/H7_M.png", HTV7 HD Max
+#EXTINF:-1 tvg-id="htv4" group-title="Thử Nghiệm" tvg-logo="https://imgstatic.vtvcab.vn/logos/H7_M.png", HTV7 HD Max
 http://quangvinh997.duckdns.org:8889/udp/225.1.1.192:30120
-#EXTINF:-1 tvg-id="htv9hd"tvg-logo="https://imgstatic.vtvcab.vn/logos/H9_M.png" group-title="Thử Nghiệm",HTV9 HD Max
+#EXTINF:-1 tvg-id="htv7hd"tvg-logo="https://imgstatic.vtvcab.vn/logos/H9_M.png" group-title="Thử Nghiệm",HTV9 HD Max
 http://quangvinh997.duckdns.org:8889/udp/225.1.1.190:30120
-
+#EXTINF:-1 tvg-id="htv7hd"tvg-logo="https://imgstatic.vtvcab.vn/logos/H9_M.png" group-title="Thử Nghiệm",HTV9 HD Max
+http://quangvinh997.duckdns.org:8889/udp/225.1.1.155:30120
+#EXTINF:-1 tvg-id="htv7hd"tvg-logo="0" group-title="Thử Nghiệm",THVL1 HD Max
+http://quangvinh997.duckdns.org:8889/udp/225.1.4.87:30120
+#EXTINF:-1 tvg-id="htv7hd"tvg-logo="0" group-title="Thử Nghiệm",THVL2 HD Max
+http://quangvinh997.duckdns.org:8889/udp/225.1.1.157:30120
+#EXTINF:-1 tvg-id="htv7hd"tvg-logo="0" group-title="Thử Nghiệm",HGTV - Truyền Hình Hậu Giang Max
+http://quangvinh997.duckdns.org:8889/udp/225.1.1.157:30120
