@@ -170,6 +170,10 @@ http://quocthai.duckdns.org:18886/rtp/232.84.2.128:8352
 http://htv-drm-live-cdn.fptplay.net/CDN-FPT02/PARAMOUNT-HD-720p/playlist.m3u8
 
 
+#EXTINF:-1 tvg-id="HiTV" group-title="HanoiCab" tvg-logo="https://namhuongcorp.com.vn/wp-content/uploads/2018/08/logo-hitv.png", HiTV - HanoiCab 1
+http://thanhfpt.duckdns.org:4567/rtp/232.84.1.55:8310
+#EXTINF:-1 tvg-id="YouTV" group-title="HanoiCab" tvg-logo="https://raw.githubusercontent.com/huynhkhai10/iptv/85446baf08472d1d51c6cd4fbe2bc89b9e806d42/unnamed.png", YouTV - HanoiCab 2
+http://gg.gg/youtv2000-user_id-4748331
 
 
 #EXTINF:0 tvg-id="SCTV1" group-title="SCTV" tvg-logo="https://lh3.googleusercontent.com/-N7N00xEzwdk/WseTQ4JIZAI/AAAAAAAAD54/3CBRPE78BnARomYiVfxbMN2cMgR8G4o5gCLcBGAs/h1200/s1.png", SCTV1 HD - Hài
