@@ -221,7 +221,7 @@ http://gg.gg/sctvphimtonghop2000-user_id-4748331
 
 
 #EXTINF:0 tvg-id="K+1" group-title="K+" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/9/9f/K%2B1.png",K+1
-http://gg.gg/k1-streamkdtv2000-user_id-4748331
+https://sum.vn/GRrdi
 #EXTINF:0 tvg-id="K+PM" group-title="K+" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/6/6c/K%2BPM.png",K+PM
 http://gg.gg/kpm-streamkdtv2000-user_id-4748331
 #EXTINF:0 tvg-id="K+NS" group-title="K+" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/5/58/K%2BNS.png",K+NS
